@@ -1,0 +1,9 @@
+---
+title: "La naturaleza está en todas las profesiones"
+categories:
+  - talk
+  - Español
+date: 2021-04-24
+---
+
+![](evento_verde2021.jpg)

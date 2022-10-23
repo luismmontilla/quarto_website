@@ -1,0 +1,95 @@
+{
+  "index.qmd": {
+    "index.html": "2e790b19"
+  },
+  "publications.qmd": {
+    "publications.html": "d928e601"
+  },
+  "blog.qmd": {
+    "blog.html": "fd1c4919"
+  },
+  "papers/cardini_et_al_2022/index.qmd": {
+    "index.html": "1b1e0edc"
+  },
+  "posts/welcome/index.qmd": {
+    "index.html": "b90e2a06"
+  },
+  "posts/post-with-code/index.qmd": {
+    "index.html": "9df55399"
+  },
+  "papers/montilla_et_a_2021/index.qmd": {
+    "index.html": "fe276446"
+  },
+  "projects.qmd": {
+    "projects.html": "dd855bda"
+  },
+  "papers/projects.qmd": {
+    "projects.html": "7bbb8f1a"
+  },
+  "timeline.qmd": {
+    "timeline.html": "d5f15178"
+  },
+  "papers/montilla2021/index.qmd": {
+    "index.html": "f580cba2"
+  },
+  "papers/cardini2022/index.qmd": {
+    "index.html": "d0219c47"
+  },
+  "papers/montilla2020/index.qmd": {
+    "index.html": "23e86122"
+  },
+  "papers/miyazawa2020/index.qmd": {
+    "index.html": "aa196d02"
+  },
+  "papers/montilla2016/index.qmd": {
+    "index.html": "2ffc5975"
+  },
+  "papers/montilla2019/index.qmd": {
+    "index.html": "7e45ae03"
+  },
+  "papers/montilla2016b/index.qmd": {
+    "index.html": "90f3da8a"
+  },
+  "projects/codirnet/index.qmd": {
+    "index.html": "dbc22216"
+  },
+  "projects/misc/index.qmd": {
+    "index.html": "b72c8adb"
+  },
+  "projects/cordix/index.qmd": {
+    "index.html": "a31f4c25"
+  },
+  "posts/aslo2021/index.qmd": {
+    "index.html": "1d4adaa8"
+  },
+  "scicomm.qmd": {
+    "scicomm.html": "6d4d97f2"
+  },
+  "scicomm/denht/index.qmd": {
+    "index.html": "3fc15a50"
+  },
+  "posts/bacoli2022/index.qmd": {
+    "index.html": "d8630dd5"
+  },
+  "posts/eventoverde/index.qmd": {
+    "index.html": "2a8adb31"
+  },
+  "posts/ecologyR2021/index.qmd": {
+    "index.html": "82772eb4"
+  },
+  "posts/ischia2020/index.qmd": {
+    "index.html": "2e5363bd"
+  },
+  "posts/persea2017b/index.qmd": {
+    "index.html": "2dbbd3cb"
+  },
+  "posts/persea2017/index.qmd": {
+    "index.html": "c4546a7c"
+  },
+  "scicomm/persea2017/index.qmd": {
+    "index.html": "801d934d"
+  },
+  "scicomm/persea2017b/index.qmd": {
+    "index.html": "c5b73133"
+  }
+}

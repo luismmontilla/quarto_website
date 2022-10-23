@@ -1,0 +1,46 @@
+[
+  {
+    "listing": "/index.html",
+    "items": [
+      "/posts/post-with-code/index.html",
+      "/posts/welcome/index.html"
+    ]
+  },
+  {
+    "listing": "/publications.html",
+    "items": [
+      "/papers/cardini2022/index.html",
+      "/papers/montilla2021/index.html",
+      "/papers/miyazawa2020/index.html",
+      "/papers/montilla2020/index.html",
+      "/papers/montilla2019/index.html",
+      "/papers/montilla2016b/index.html",
+      "/papers/montilla2016/index.html"
+    ]
+  },
+  {
+    "listing": "/blog.html",
+    "items": [
+      "/posts/bacoli2022/index.html",
+      "/posts/ecologyR2021/index.html",
+      "/posts/eventoverde/index.html",
+      "/posts/ischia2020/index.html"
+    ]
+  },
+  {
+    "listing": "/projects.html",
+    "items": [
+      "/projects/codirnet/index.html",
+      "/projects/cordix/index.html",
+      "/projects/misc/index.html"
+    ]
+  },
+  {
+    "listing": "/scicomm.html",
+    "items": [
+      "/scicomm/denht/index.html",
+      "/scicomm/persea2017b/index.html",
+      "/scicomm/persea2017/index.html"
+    ]
+  }
+]

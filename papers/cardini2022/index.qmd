@@ -1,0 +1,10 @@
+---
+title: "Nested interactions between chemosynthetic lucinid bivalves and seagrass promote ecosystem functioning in contaminated sediments"
+date: "2022-07-22"
+categories: [seagrasses]
+image: "image.jpg"
+---
+
+[Full text](https://doi.org/10.3389/fpls.2022.918675)
+
+> Cardini U, Marín-Guirao L, **Montilla LM**, Marzocchi U, Chiavarini S, Rimauro J, Quero GM, Petersen JM, Procaccini G. 2022. *Nested interactions between chemosynthetic lucinid bivalves and seagrass promote ecosystem functioning in contaminated sediments*. Frontiers in Plant Science 13. DOI: [10.3389/fpls.2022.918675](https://www.frontiersin.org/articles/10.3389/fpls.2022.918675/full)

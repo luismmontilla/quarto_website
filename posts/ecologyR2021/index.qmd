@@ -1,0 +1,26 @@
+---
+title: "Building a network of invertebrate-microbe associations from seagrass beds"
+date: 2022-03-02
+categories:
+  - talk
+  - seagrass
+  - networks
+  - R
+---
+:::::{.columns}
+
+:::{.column width="45%"}
+![](ecologyR2021.jpg)
+:::
+
+:::{.column width="10%"}
+:::
+
+:::{.column width="45%"}
+I presented some preliminary results from our bioturbator-microbe association project in the first [Ecology in R](http://www.ecologyinr.com/) virtual conference. You can download the slides in the button above.
+
+This was a very interesting experience, where the focus was on showing our workflows, the typical packages we used, the limitations and advantages of using R for our projects.
+:::
+
+:::::
+

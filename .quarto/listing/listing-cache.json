@@ -1,0 +1,20 @@
+{
+  "listingMap": {
+    "index.qmd": [
+      "posts"
+    ],
+    "publications.qmd": [
+      "posts",
+      "papers/**/*.qmd"
+    ],
+    "blog.qmd": [
+      "posts/**/*.qmd"
+    ],
+    "projects.qmd": [
+      "projects/**/*.qmd"
+    ],
+    "scicomm.qmd": [
+      "scicomm/**/*.qmd"
+    ]
+  }
+}

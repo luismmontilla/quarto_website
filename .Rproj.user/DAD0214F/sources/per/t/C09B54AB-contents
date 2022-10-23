@@ -1,0 +1,58 @@
+---
+title: "Timeline"
+filters: 
+  - lightbox
+lightbox: auto
+---
+
+## Marine Symbiomes Research Group (2019)
+
+:::::::::::::: {.columns}
+
+::: {.column width="22.5%"}
+![](gallery/marsym1.jpeg){group="marsym"}
+![](gallery/marsym3.jpeg){group="marsym"}
+:::
+
+::: {.column width="22.5%"}
+![](gallery/marsym2.jpeg){group="marsym"}
+![](gallery/marsym4.jpeg){group="marsym"}
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="50%"}
+
+SZN We are mainly interested in the phisiology of the metaorganism and its influence on the carbon and nitrogen cycles. We use a combination of underwater fieldwork for sample collection and incubation experiments with living organisms. Nutrient and oxygen measurements, acetylene reduction assays and stable isotope probing are used to quantify fluxes. We perform manipulation and mesocosms experiments to disentangle the role of environmental conditions in shaping the functioning of the metaorganism.
+
+:::
+
+:::::::::::::: 
+
+## Experimental Ecology Laboratory (2018)
+
+:::::::::::::: {.columns}
+
+::: {.column width="50%"}
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+:::
+
+
+::: {.column width="22.5%"}
+![](gallery/marsym1.jpeg)
+![](gallery/marsym3.jpeg)
+:::
+
+::: {.column width="22.5%"}
+![](gallery/marsym2.jpeg)
+![](gallery/marsym4.jpeg)
+:::
+
+::: {.column width="5%"}
+:::
+
+
+::::::::::::::

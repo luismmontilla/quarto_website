@@ -1,0 +1,71 @@
+---
+title: "Timeline"
+filters: 
+  - lightbox
+lightbox: auto
+---
+
+## Marine Symbiomes Research Group (2019)
+
+::: {.column-margin}
+![Marine symbiomes](gallery/marsym.png)
+
+![Marine symbiomes](gallery/szn.jpg)
+:::
+
+:::::::::::::: {.columns}
+
+
+
+::: {.column width="47.5%"}
+![](gallery/marsym1.jpeg){group="marsym"}
+![](gallery/marsym3.jpeg){group="marsym"}
+
+![](gallery/marsym2.jpeg){group="marsym"}
+![](gallery/marsym4.jpeg){group="marsym"}
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="47.5%"}
+
+I started my Ph.D. at the Stazione Zoologica Anton Dohrn, Italy as part of the Marine Symbiomes Research Group. As part of our project, we explored the idea that invertebrate-bacterial associations may have a relevant role in nitrogen transformation processes through activity of their associated microbiome. 
+
+Using a combination of field surveys, incubation experiments, stable isotope probing, and high-throughput sequencing, we explored the taxonomic and functional diversity of the microbiome and the contribution of invertebrate-bacterial associations to biogeochemical fluxes of nitrogen at the ecosystem level.
+
+:::
+
+:::::::::::::: 
+
+## Experimental Ecology Laboratory (2018)
+
+::: {.column-margin}
+![Experimental Ecology Laboratory](gallery/lee.png)
+
+![Simon Bolivar University](gallery/usb.png)
+:::
+
+:::::::::::::: {.columns}
+
+::: {.column width="50%"}
+
+During my Bachelor's at the Simon Bolivar University, Venezuela I joined the Experimental 
+Ecology Laboratory, where I completed both my Bachelor's and Master's theses. There, the focus was on exploring ecological patterns and processes in coastal-marine ecosystems combining intensive fieldwork, manipulative experiments and multivariate data analysis.
+
+:::
+
+
+::: {.column width="47.5%"}
+![](gallery/lee3.jpg)
+![](gallery/lee2.jpg)
+
+![](gallery/lee1.jpg)
+
+:::
+
+::: {.column width="5%"}
+:::
+
+
+::::::::::::::

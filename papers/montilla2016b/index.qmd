@@ -1,0 +1,10 @@
+---
+title: "Creando un aula mágica con la tecnología: la experiencia usando Classcraft"
+date: "2016-05-15"
+categories: [teaching]
+image: "image.jpg"
+---
+
+[Full text](https://revistas.unae.edu.ec/index.php/mamakuna/article/view/29)
+
+Montilla, L. M. (2016). Creando un aula mágica con la tecnología: la experiencia usando Classcraft. Mamakuna, (2), 28-35.

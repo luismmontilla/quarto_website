@@ -1,0 +1,7 @@
+---
+title: "A photographic data set of reef and coral communities across Venezuela"
+date: "2021-08-01"
+categories: [corals]
+image: "image.jpg"
+---
+

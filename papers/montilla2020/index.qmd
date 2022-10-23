@@ -1,0 +1,6 @@
+---
+title: "The use of pseudo-multivariate standard error to improve the sampling design of coral monitoring programs"
+date: "2020-04-22"
+categories: [corals]
+image: "image.jpg"
+---

@@ -1,0 +1,6 @@
+---
+title: "On the importance of spatial scales on beta diversity of coral assemblages: a study from Venezuelan coral reefs"
+date: "2020-05-04"
+categories: [corals]
+image: "image.jpg"
+---

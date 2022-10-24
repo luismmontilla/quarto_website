@@ -10,7 +10,7 @@ lightbox: auto
 ::: {.column-margin}
 ![Marine symbiomes](gallery/marsym.png)
 
-![Marine symbiomes](gallery/szn.jpg)
+![Stazione Zoologica Anton Dohrn](gallery/szn.jpg)
 :::
 
 :::::::::::::: {.columns}

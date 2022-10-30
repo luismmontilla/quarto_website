@@ -4,3 +4,8 @@ date: "2020-04-22"
 categories: [corals]
 image: "image.jpg"
 ---
+[Full text](https://peerj.com/articles/8429/) |
+[Data and code](https://github.com/luismmontilla/coral_muse) |
+[Conference poster](https://zenodo.org/record/3233879)
+
+> **Montilla LM**, Miyazawa E, Ascanio A, López-Hernández M, Mariño-Briceño G, Rebolledo-Sánchez Z, Rivera A, Mancilla DS, Verde A, Cróquer A. 2020. The use of pseudo-multivariate standard error to improve the sampling design of coral monitoring programs. https://doi.org/10.7717/peerj.8429

@@ -1,0 +1,16 @@
+---
+title: "A simple visualization of covid-19 cases in Italy"
+date: "2020-03-14"
+categories:
+  - covid19
+  - R
+  - Shiny
+image: "image.jpg"
+author: Luis Montilla
+---
+
+This was one of my first attempts at displaying data on a shiny app. At the time in the middle of the lockdown, many peers followed the number of new cases without considering other variables such as the number of hospitalized patients.
+
+:::{.column-page}
+<iframe width="100%" height="600px" src="https://lumimoto.shinyapps.io/covid-19-ita/"> </iframe>
+:::

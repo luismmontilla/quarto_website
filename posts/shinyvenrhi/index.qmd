@@ -1,0 +1,16 @@
+---
+title: "Venezuelan coral reefs: A health assessment using the Reef Health Index with complementary variables"
+date: "2023-03-31"
+categories:
+  - Coral
+  - R
+  - Shiny
+image: "image.jpg"
+author: Luis Montilla
+---
+
+Under construction
+
+:::{.column-page}
+<iframe width="100%" height="600px" src="https://lumimoto.shinyapps.io/shinyvenrhi/"> </iframe>
+:::

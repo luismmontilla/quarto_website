@@ -1,0 +1,11 @@
+---
+title: "Accelerated Nitrogen Cycling on Seagrass Leaves in a High-CO2 World"
+date: "2023-07-22"
+categories: [seagrasses]
+image: "image.jpg"
+---
+
+{{< fa file-lines >}} [Preprint](https://www.biorxiv.org/content/10.1101/2023.05.19.541481v1) |
+{{< fa code >}} [Data and code](https://github.com/luismmontilla/embrace) 
+
+> Berlinghof J, **Montilla LM**, Peiffer F, Quero GM , Marzocchi U, Meador TM, Margiotta F, Abagnale M, Wild C, Cardini C. 2022. *Accelerated Nitrogen Cycling on Seagrass Leaves in a High-CO2 World*. BioRXiv. DOI: [10.1101/2023.05.19.541481v1](https://www.biorxiv.org/content/10.1101/2023.05.19.541481v1)

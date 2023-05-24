@@ -18,8 +18,9 @@ website:
         text: SciComm
 format:
   html:
-    theme: theme.scss
-    css: styles.css
+    theme:
+      dark: darkly
+
 
 
 

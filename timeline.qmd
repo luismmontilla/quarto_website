@@ -5,7 +5,37 @@ filters:
 lightbox: auto
 ---
 
-## Marine Symbiomes Research Group (2019)
+## Crossref (Present)
+::: {.column-margin}
+![](https://assets.crossref.org/logo/crossref-logo-landscape-200.svg)
+:::
+
+:::::::::::::: {.columns}
+::: {.column width="47.5%"}
+:::
+::: {.column width="5%"}
+:::
+
+::: {.column width="47.5%"}
+
+In my most recent position at Crossref, I joined the Community Engagement and Communications team as Technical Community Manager.
+:::
+:::::::::::::: 
+
+
+## DOAJ (2023)
+::: {.column-margin}
+![](https://doajournals.files.wordpress.com/2021/07/doaj_logo-1920x1080-1.png)
+:::
+
+
+I joined the team at the Directory of Open Access Journals as a Managing Editor, and the experience was profoundly enriching. In this role, I undertook various responsibilities, including reviewing applications, journal records, and update requests. I also assessed recommendations provided by volunteer editors, assisting journals in meeting the inclusion criteria for DOAJ, enhancing adherence to best practices, and reporting cases of suspected predatory publishing for further investigation. This multifaceted role not only deepened my understanding of open access publishing but also allowed me to contribute actively to maintaining the quality and integrity of the journals associated with DOAJ.
+
+
+
+
+
+## Marine Symbiomes Research Group (2019-2023)
 
 ::: {.column-margin}
 ![Marine symbiomes](gallery/marsym.png)
@@ -38,7 +68,7 @@ Using a combination of field surveys, incubation experiments, stable isotope pro
 
 :::::::::::::: 
 
-## Experimental Ecology Laboratory (2018)
+## Experimental Ecology Laboratory (2011-2019)
 
 ::: {.column-margin}
 ![Experimental Ecology Laboratory](gallery/lee.png)

@@ -21,9 +21,7 @@ about:
       href: https://scholar.google.com/citations?hl=en&user=vwVkZfwAAAAJ&view_op=list_works&sortby=pubdate
 ---
 
-### Marine Symbiomes Research Group, Stazione Zoologica Anton Dohrn
-
-I’m a marine ecologist pursuing my Ph.D. at Stazione Zoologica Anton Dohrn as part of the Marine Symbiomes Research Group. I’m currently studying the role of invertebrate-bacterial associations in nitrogen cycling associated with seagrass ecosystems.
+### Technical Community Manager, Crossref
 
 Here you will find my links to my publications, academic social networks, side projects, and occasional blog posts. Feel free to contact me in case of any inquiry!
 

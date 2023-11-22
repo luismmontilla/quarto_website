@@ -1,0 +1,11 @@
+---
+title: "Perspectives: Luis Montilla on making science fiction concepts a reality in the scholarly ecosystem"
+date: "2023-11-20"
+categories:
+  - "Scholarly infrastructure"
+image: "image.jpg"
+---
+
+Hello, readers! My name is Luis, and I’ve recently started a new role as the Technical Community Manager at Crossref, where I aim to bridge the gap between some of our services and our community awareness to enhance the Research Nexus. I’m excited to share my thoughts with you.
+
+You can find the rest of the post at the [Crossref blog](https://www.crossref.org/blog/perspectives-luis-montilla-sci-fi-concepts-reality-scholarly-ecosystem/).

@@ -1,0 +1,194 @@
+---
+title: Metadatos académicos abiertos
+subtitle: Hacia la integracion del conocimiento y la transparencia
+date: 2024-02-16
+categories:
+  - talk
+  - Español
+  - Scholarly infrastructure
+format: 
+  revealjs:
+    slide-number: false
+    theme: dark
+author: Luis M. Montilla
+affiliation: Crossref
+editor_options: 
+  chunk_output_type: console
+---
+
+## Hello there!
+
+- Lic. Biología. USB (2006)
+- M. Sc. Ciencias Biológicas. USB (2014)
+- Ph.D. Stazione Zoologica 'Anton Dohrn' (Nápoles, Italia, 2019)
+- Technical Community Manager. Crossref (2023)
+
+
+
+## Qué hago hoy en día?
+
+### Crossref
+- Organización sin fines de lucro
+- Provee infraestructura académica **abierta**.
+- Hacemos que objetos de investigación sean descubribles, citables, interconectables y reutilizables.
+
+![](images/IMG_2245b.jpg){fig-align="center"}
+
+
+
+## 
+
+![](images/image1-paper.png)
+
+Metadatos comunes:
+
+DOI, titulos, autores, ORCID, año, afiliaciones, revista, financiamiento, referencias
+
+## 
+Materializar el Nexo de investigación
+
+::::{.columns}
+:::{.column width="40%"}
+* Datos
+* Posters
+* Preprints
+* Protocolos
+* Codigo
+* Financiamiento
+* Blogs
+:::
+
+:::{.column width="60%"}
+![](https://www.crossref.org/images/documentation/research-nexus-2023-final.png){fig-align="center"}
+:::
+::::
+
+::: footer
+[https://www.crossref.org/documentation/research-nexus/](https://www.crossref.org/documentation/research-nexus/)
+:::
+
+## ¿Qué hago allí?
+
+### Technical community manager
+
+- Represento a la organización en eventos académicos e.g. La Feria del libro de Frankfurt.
+- Escribo publicaciones en el blog, tutoriales y demostraciones sobre el uso de la API.
+- Entrevisto a representantes de miembros de la comunidad sobre su uso de los metadatos abiertos.
+- Desarrollo de programas de prestadores de servicios.
+
+# El presente y la visión del registro académico {.center}
+
+
+## Nuevos paradigmas
+
+Una segunda revolucion en la manera de publicar
+
+:::{layout-ncol=3}
+![Photo by Julian Hochgesang on Unsplash](images/julian-hochgesang-im08hUXmedQ-unsplash.jpg)
+
+![Photo by Nick Morrison on Unsplash](images/nick-morrison-FHnnjk1Yj7Y-unsplash.jpg)
+
+![Photo by Ilya Pavlov on Unsplash](images/ilya-pavlov-OqtafYT5kTw-unsplash.jpg)
+:::
+
+##
+
+![](https://www.crossref.org/images/documentation/research-nexus-2023-final.png){fig-align="center"}
+
+# Aumentar la integridad y transparencia del registro académico
+
+## Por ejemplo
+
+- Vinculando Grant DOI con elementos financiados
+- Reportando y visibilizando actualizaciones y retractaciones
+- Publicando y citando datos, codigo y software *
+- Registrando reportes de arbitraje de artículos *
+- Facilitando la detección de plagio
+- Bajando las barreras para aumentar la inclusion [^1]
+
+[^1]: Incluyendo la incorporación de CM.
+
+## ¿Cómo participamos en esto?
+
+![](images/orcid.png)
+
+## ¿Cómo participamos en esto?
+
+Publicando datos en repositorios abiertos
+
+
+
+![](images/znd.png){width=50% fig-align="center"} 
+
+![](images/osf.png){width=50% fig-align="center"}
+
+![](images/figs.png){width=50% fig-align="center"}
+
+
+## ¿Cómo participamos en esto?
+
+Publicación de preprints
+
+
+![](images/Preprints1.png){width=40% fig-align="center"}
+
+![](images/Preprints2.png){fig-align="center"}
+
+![](images/Preprints3.png){width=40% fig-align="center"}
+
+![](images/Preprints4.png){width=40% fig-align="center"}
+
+
+## ¿Cómo participamos en esto?
+
+Publicando de nuestro trabajo en general
+
+:::{layout-ncol=2}
+
+![](images/preprints4.png){width=40%}
+
+![](images/RE.png){width=12.5%}
+:::
+##
+
+![](images/OAlex.png)
+
+##
+
+![](images/Oalex2.png){width=60%}
+![](images/figure3.png){width=31.5%}
+
+::: footer
+- [https://doi.org/10.48550/arXiv.2205.01833](https://doi.org/10.48550/arXiv.2205.01833)
+
+- [https://doi.org/10.48550/arXiv.2401.16359](https://doi.org/10.48550/arXiv.2401.16359)
+:::
+
+
+## 
+
+![](https://png2.cleanpng.com/sh/a829e55fe68a2486f189a433c710838d/L0KzQYm3VMA2N5Z8iZH0aYP2gLBuTgBmdqN0i9c2dILscbBujPUueJZzitH8ZT32hLLwkwMud6F5gdVqbD3sfL38kBlwdl51ReZ7aXHxd73sTcVia2ZmUKtsZUO0Q4G6TsEzP2I9SasBMUW1Qoq3U8E6Pmo4SKM3cH7q/kisspng-penrose-triangle-penrose-stairs-optical-illusion-p-triangle-5ac5a89ce31303.1271819615229031969301.png)
+
+::: footer
+[Penrose triangle](https://en.wikipedia.org/wiki/Penrose_triangle)
+:::
+
+##
+
+![](https://upload.wikimedia.org/wikipedia/commons/3/38/Perth_Impossible_Triangle.jpg)
+
+::: footer
+Bjørn Christian Tørrissen, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons
+:::
+
+##
+
+![](images/Screenshot 2024-02-14 at 02-58-49 Building Blocks for Impact—vF2022.pdf.png){fig-align="center" width=50%}
+
+::: footer
+[https://zenodo.org/doi/10.5281/zenodo.7249186](https://zenodo.org/doi/10.5281/zenodo.7249186)
+:::
+
+# Gracias!
+
+https://luismmontilla.com/

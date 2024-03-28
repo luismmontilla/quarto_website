@@ -1,0 +1,10 @@
+---
+title: "Accelerated nitrogen cycling on Mediterranean seagrass leaves at volcanic CO2 vents"
+date: "2024-03-19"
+categories: [seagrasses]
+image: "image.jpg"
+---
+
+{{< fa file-lines >}} [Full text](https://doi.org/10.1038/s42003-024-06011-0) 
+
+> Berlinghof, J., **Montilla, L. M.**, Peiffer, F., Quero, G. M., Marzocchi, U., Meador, T. B., Margiotta, F., Abagnale, M., Wild, C., & Cardini, U. (2024). *Accelerated nitrogen cycling on Mediterranean seagrass leaves at volcanic CO2 vents.* Communications Biology, 7(1). [https://doi.org/10.1038/s42003-024-06011-0](https://doi.org/10.1038/s42003-024-06011-0)

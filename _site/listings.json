@@ -9,6 +9,8 @@
   {
     "listing": "/publications.html",
     "items": [
+      "/papers/pfister2023/index.html",
+      "/papers/berlinghof2023/index.html",
       "/papers/cardini2022/index.html",
       "/papers/montilla2021/index.html",
       "/papers/miyazawa2020/index.html",
@@ -21,10 +23,14 @@
   {
     "listing": "/blog.html",
     "items": [
+      "/posts/biousb2024/index.html",
+      "/posts/crossref2023/index.html",
+      "/posts/shinyvenrhi/index.html",
       "/posts/bacoli2022/index.html",
       "/posts/ecologyR2021/index.html",
       "/posts/eventoverde/index.html",
-      "/posts/ischia2020/index.html"
+      "/posts/ischia2020/index.html",
+      "/posts/shinycovid19ita/index.html"
     ]
   },
   {

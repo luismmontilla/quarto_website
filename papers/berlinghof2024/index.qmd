@@ -2,9 +2,24 @@
 title: "Accelerated nitrogen cycling on Mediterranean seagrass leaves at volcanic CO2 vents"
 date: "2024-03-19"
 categories: [seagrasses]
-image: "image.jpg"
+image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs42003-024-06011-0/MediaObjects/42003_2024_6011_Fig4_HTML.png
+author: 
+  - name: Berlinghof J
+  - name: Montilla LM
+    orcid: https://orcid.org/0000-0002-7079-6775
+  - name: Peiffer F 
+  - name: Quero GM 
+  - name: Marzocchi U 
+  - name: Meador TB 
+  - name: Margiotta F 
+  - name: Abagnale  M 
+  - name: Wild C
+  - name: Cardini C
+abstract: "Seagrass meadows form highly productive and diverse ecosystems in coastal areas worldwide, where they are increasingly exposed to ocean acidification (OA). Efficient nitrogen (N) cycling and uptake are essential to maintain plant productivity, but the effects of OA on N transformations in these systems are poorly understood. Here we show that complete N cycling occurs on leaves of the Mediterranean seagrass Posidonia oceanica at a volcanic CO2 vent near Ischia Island (Italy), with OA affecting both N gain and loss while the epiphytic microbial community structure remains largely unaffected. Daily leaf-associated N2 fixation contributes to 35% of the plant’s N demand under ambient pH, while it contributes to 45% under OA. Nitrification potential is only detected under OA, and N-loss via N2 production increases, although the balance remains decisively in favor of enhanced N gain. Our work highlights the role of the N-cycling microbiome in seagrass adaptation to OA, with key N transformations accelerating towards increased N gain."
+citation: 
+  container-title: Communications Biology
+  doi: https://doi.org/10.1038/s42003-024-06011-0
 ---
 
-{{< fa file-lines >}} [Full text](https://doi.org/10.1038/s42003-024-06011-0) 
-
-> Berlinghof, J., **Montilla, L. M.**, Peiffer, F., Quero, G. M., Marzocchi, U., Meador, T. B., Margiotta, F., Abagnale, M., Wild, C., & Cardini, U. (2024). *Accelerated nitrogen cycling on Mediterranean seagrass leaves at volcanic CO2 vents.* Communications Biology, 7(1). [https://doi.org/10.1038/s42003-024-06011-0](https://doi.org/10.1038/s42003-024-06011-0)
+{{< fa file-lines >}} [Full-text](https://doi.org/10.1038/s42003-024-06011-0) | {{< fa file-lines >}} [Preprint](https://www.biorxiv.org/content/10.1101/2023.05.19.541481v1) |
+{{< fa code >}} [Data and code](https://github.com/luismmontilla/embrace) 

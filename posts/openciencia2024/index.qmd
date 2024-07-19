@@ -1,0 +1,18 @@
+---
+title: Cambios en Metadatos de Records Académicos asociados a Prácticas Transparentes en Revistas Académicas
+date: 2024-07-12
+categories:
+  - talk
+  - Español
+  - Scholarly infrastructure
+author: 
+  - name:
+      given: Luis M. 
+      family: Montilla
+affiliation: Crossref
+citation: 
+  container-title: "Problemáticas en Publicaciones de Acceso Abierto 2024. OpenCiencia"
+---
+{{< fa file-lines >}}  [Program](https://openciencia.org/index.php/ioap/ioap24/schedConf/program)
+
+

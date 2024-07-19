@@ -9,8 +9,8 @@
   {
     "listing": "/publications.html",
     "items": [
+      "/papers/berlinghof2024/index.html",
       "/papers/pfister2023/index.html",
-      "/papers/berlinghof2023/index.html",
       "/papers/cardini2022/index.html",
       "/papers/montilla2021/index.html",
       "/papers/miyazawa2020/index.html",
@@ -23,6 +23,9 @@
   {
     "listing": "/blog.html",
     "items": [
+      "/posts/cafeprovita2024/index.html",
+      "/posts/openciencia2024/index.html",
+      "/posts/crossref2024/index.html",
       "/posts/biousb2024/index.html",
       "/posts/crossref2023/index.html",
       "/posts/shinyvenrhi/index.html",
@@ -36,6 +39,7 @@
   {
     "listing": "/projects.html",
     "items": [
+      "/projects/metadata_retrieval/index.html",
       "/projects/codirnet/index.html",
       "/projects/cordix/index.html",
       "/projects/misc/index.html"

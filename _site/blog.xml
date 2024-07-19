@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Home</title>
+<link>https://www.luismmontilla.com/blog.html</link>
+<atom:link href="https://www.luismmontilla.com/blog.xml" rel="self" type="application/rss+xml"/>
+<description>This is Luis Montillas&#39;s academic website.</description>
+<generator>quarto-1.4.553</generator>
+<lastBuildDate>Thu, 11 Jul 2024 22:00:00 GMT</lastBuildDate>
+<item>
+  <title>Cambios en Metadatos de Records Académicos asociados a Prácticas Transparentes en Revistas Académicas</title>
+  <dc:creator>Luis M. Montilla</dc:creator>
+  <link>https://www.luismmontilla.com/posts/openciencia2024/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p><i class="fa-solid fa-file-lines" aria-label="file-lines"></i> <a href="https://openciencia.org/index.php/ioap/ioap24/schedConf/program">Program</a></p>
+
+
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{montilla2024,
+  author = {Montilla, Luis M.},
+  title = {Cambios En {Metadatos} de {Records} {Académicos} Asociados a
+    {Prácticas} {Transparentes} En {Revistas} {Académicas}},
+  date = {2024-07-12},
+  url = {https://www.luismmontilla.com//posts/openciencia2024},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-montilla2024" class="csl-entry quarto-appendix-citeas">
+Montilla, Luis M. 2024. <span>“Cambios En Metadatos de Records
+Académicos Asociados a Prácticas Transparentes En Revistas
+Académicas.”</span> Problemáticas En Publicaciones de Acceso Abierto
+2024. OpenCiencia. July 12, 2024. <a href="https://www.luismmontilla.com//posts/openciencia2024">https://www.luismmontilla.com//posts/openciencia2024</a>.
+</div></div></section></div> ]]></description>
+  <category>talk</category>
+  <category>Español</category>
+  <category>Scholarly infrastructure</category>
+  <guid>https://www.luismmontilla.com/posts/openciencia2024/</guid>
+  <pubDate>Thu, 11 Jul 2024 22:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Drawing on the Research Nexus with Policy documents: Overton’s use of Crossref API</title>
+  <link>https://www.luismmontilla.com/posts/crossref2024/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="what-is-overton" class="level1">
+<h1>What is Overton?</h1>
+<p>Overton is a big database of government policy documents, also including sources like intergovernmental organizations, think tanks, and big NGOs and in general anyone who’s trying to influence a government policy maker. What we’re interested in is basically, taking all the good parts of the scholarly record and applying some of that to the policy world. By this we mean finding all the documents, finding what’s out there, collecting metadata for them consistently, fitting to our schema, extracting references from all the policy documents we find, adding links between them, and then we also do citation analysis.</p>
+<p>You can find the rest of the post at the <a href="https://www.crossref.org/blog/drawing-on-the-research-nexus-with-policy-documents-overtons-use-of-crossref-api/">Crossref blog</a>.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>Scholarly infrastructure</category>
+  <guid>https://www.luismmontilla.com/posts/crossref2024/</guid>
+  <pubDate>Fri, 14 Jun 2024 22:00:00 GMT</pubDate>
+  <media:content url="https://www.luismmontilla.com/posts/crossref2024/image.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title></title>
+  <dc:creator>Luis M. Montilla</dc:creator>
+  <link>https://www.luismmontilla.com/posts/biousb2024/</link>
+  <description><![CDATA[ undefined ]]></description>
+  <category>talk</category>
+  <category>Español</category>
+  <category>Scholarly infrastructure</category>
+  <guid>https://www.luismmontilla.com/posts/biousb2024/</guid>
+  <pubDate>Thu, 15 Feb 2024 23:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Perspectives: Luis Montilla on making science fiction concepts a reality in the scholarly ecosystem</title>
+  <link>https://www.luismmontilla.com/posts/crossref2023/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Hello, readers! My name is Luis, and I’ve recently started a new role as the Technical Community Manager at Crossref, where I aim to bridge the gap between some of our services and our community awareness to enhance the Research Nexus. I’m excited to share my thoughts with you.</p>
+<p>You can find the rest of the post at the <a href="https://www.crossref.org/blog/perspectives-luis-montilla-sci-fi-concepts-reality-scholarly-ecosystem/">Crossref blog</a>.</p>
+
+
+
+ ]]></description>
+  <category>Scholarly infrastructure</category>
+  <guid>https://www.luismmontilla.com/posts/crossref2023/</guid>
+  <pubDate>Sun, 19 Nov 2023 23:00:00 GMT</pubDate>
+  <media:content url="https://www.luismmontilla.com/posts/crossref2023/image.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Venezuelan coral reefs: A health assessment using the Reef Health Index with complementary variables</title>
+  <dc:creator>Luis Montilla</dc:creator>
+  <link>https://www.luismmontilla.com/posts/shinyvenrhi/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Under construction</p>
+<div class="column-page">
+<iframe width="100%" height="900px" src="https://lumimoto.shinyapps.io/shinyvenrhi/">
+</iframe>
+</div>
+
+
+
+ ]]></description>
+  <category>Coral</category>
+  <category>R</category>
+  <category>Shiny</category>
+  <guid>https://www.luismmontilla.com/posts/shinyvenrhi/</guid>
+  <pubDate>Thu, 30 Mar 2023 22:00:00 GMT</pubDate>
+  <media:content url="https://www.luismmontilla.com/posts/shinyvenrhi/image.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Sponge and seagrass – evidence for a marine love story?</title>
+  <dc:creator>Johanna Berlinghof</dc:creator>
+  <link>https://www.luismmontilla.com/posts/bacoli2022/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>This post contains an update bout our recent fieldwork at the Schiacchetiello bay. You can read more about it in our group website: <a href="https://www.marinesymbiomes.eu/2022/06/09/sponge-and-seagrass-evidence-for-a-marine-love-story/">Marine Symbiomes post</a></p>
+
+
+
+ ]]></description>
+  <category>Seagrass</category>
+  <category>Sponges</category>
+  <category>Fieldwork</category>
+  <guid>https://www.luismmontilla.com/posts/bacoli2022/</guid>
+  <pubDate>Tue, 17 May 2022 22:00:00 GMT</pubDate>
+  <media:content url="https://www.luismmontilla.com/posts/bacoli2022/image.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Building a network of invertebrate-microbe associations from seagrass beds</title>
+  <link>https://www.luismmontilla.com/posts/ecologyR2021/</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="columns">
+<div class="column" style="width:45%;">
+<p><img src="https://www.luismmontilla.com/posts/ecologyR2021/ecologyR2021.jpg" class="img-fluid"></p>
+</div><div class="column" style="width:10%;">
+
+</div><div class="column" style="width:45%;">
+<p>I presented some preliminary results from our bioturbator-microbe association project in the first <a href="http://www.ecologyinr.com/">Ecology in R</a> virtual conference. You can download the slides in the button above.</p>
+<p>This was a very interesting experience, where the focus was on showing our workflows, the typical packages we used, the limitations and advantages of using R for our projects.</p>
+</div>
+</div>
+
+
+
+ ]]></description>
+  <category>talk</category>
+  <category>seagrass</category>
+  <category>networks</category>
+  <category>R</category>
+  <guid>https://www.luismmontilla.com/posts/ecologyR2021/</guid>
+  <pubDate>Tue, 01 Mar 2022 23:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>La naturaleza está en todas las profesiones</title>
+  <link>https://www.luismmontilla.com/posts/eventoverde/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><img src="https://www.luismmontilla.com/posts/eventoverde/evento_verde2021.jpg" class="img-fluid"></p>
+
+
+
+ ]]></description>
+  <category>talk</category>
+  <category>Español</category>
+  <guid>https://www.luismmontilla.com/posts/eventoverde/</guid>
+  <pubDate>Fri, 23 Apr 2021 22:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Field campaign in Ischia!</title>
+  <link>https://www.luismmontilla.com/posts/ischia2020/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>If you happen to spend some time in Naples, you will probably have the chance to taste a coffee prepared by a Neapolitan friend in a moka machine. It is likely that you will notice that before serving, they will stir the coffee inside the moka. When asked, they will tell you is that coffee is more concentrated at the bottom of the moka than at the top. By stirring it, they are doing you a favour! This mixing not only improves coffee, but similarly happens in nature when layers of different gases or substances are stirred in the air and in the water due to turbulence. Here we will tell you a little bit more about our fieldwork in the <em>Posidonia oceanica</em> meadows off Ischia Island last September and how this is related to stirring coffee.</p>
+<p>You can find the rest of the post at our research group website: <a href="http://www.marinesymbiomes.eu/2020/11/26/field-campaign-ischia/">Marine Symbiomes</a>.</p>
+<p><img src="https://www.luismmontilla.com/posts/ischia2020/fredi-laura-chamber-4.jpg" class="img-fluid"></p>
+
+
+
+ ]]></description>
+  <category>Seagrass</category>
+  <category>CO2 vents</category>
+  <category>Fieldwork</category>
+  <guid>https://www.luismmontilla.com/posts/ischia2020/</guid>
+  <pubDate>Thu, 26 Nov 2020 23:00:00 GMT</pubDate>
+  <media:content url="https://www.luismmontilla.com/posts/ischia2020/image.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>A simple visualization of covid-19 cases in Italy</title>
+  <dc:creator>Luis Montilla</dc:creator>
+  <link>https://www.luismmontilla.com/posts/shinycovid19ita/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>This was one of my first attempts at displaying data on a shiny app. At the time in the middle of the lockdown, many peers followed the number of new cases without considering other variables such as the number of hospitalized patients.</p>
+<div class="column-page">
+<iframe width="100%" height="600px" src="https://lumimoto.shinyapps.io/covid-19-ita/">
+</iframe>
+</div>
+
+
+
+ ]]></description>
+  <category>covid19</category>
+  <category>R</category>
+  <category>Shiny</category>
+  <guid>https://www.luismmontilla.com/posts/shinycovid19ita/</guid>
+  <pubDate>Fri, 13 Mar 2020 23:00:00 GMT</pubDate>
+  <media:content url="https://www.luismmontilla.com/posts/shinycovid19ita/image.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title></title>
+  <link>https://www.luismmontilla.com/posts/cafeprovita2024/</link>
+  <description><![CDATA[ undefined ]]></description>
+  <guid>https://www.luismmontilla.com/posts/cafeprovita2024/</guid>
+  <pubDate>Fri, 19 Jul 2024 15:20:30 GMT</pubDate>
+</item>
+</channel>
+</rss>

@@ -1,30 +1,7 @@
 [
   {
-    "listing": "/index.html",
-    "items": [
-      "/posts/post-with-code/index.html",
-      "/posts/welcome/index.html"
-    ]
-  },
-  {
-    "listing": "/publications.html",
-    "items": [
-      "/papers/berlinghof2024/index.html",
-      "/papers/pfister2023/index.html",
-      "/papers/cardini2022/index.html",
-      "/papers/montilla2021/index.html",
-      "/papers/miyazawa2020/index.html",
-      "/papers/montilla2020/index.html",
-      "/papers/montilla2019/index.html",
-      "/papers/montilla2016b/index.html",
-      "/papers/montilla2016/index.html"
-    ]
-  },
-  {
     "listing": "/blog.html",
     "items": [
-      "/posts/cafeprovita2024/index.html",
-      "/posts/openciencia2024/index.html",
       "/posts/crossref2024/index.html",
       "/posts/biousb2024/index.html",
       "/posts/crossref2023/index.html",
@@ -34,23 +11,6 @@
       "/posts/eventoverde/index.html",
       "/posts/ischia2020/index.html",
       "/posts/shinycovid19ita/index.html"
-    ]
-  },
-  {
-    "listing": "/projects.html",
-    "items": [
-      "/projects/metadata_retrieval/index.html",
-      "/projects/codirnet/index.html",
-      "/projects/cordix/index.html",
-      "/projects/misc/index.html"
-    ]
-  },
-  {
-    "listing": "/scicomm.html",
-    "items": [
-      "/scicomm/denht/index.html",
-      "/scicomm/persea2017b/index.html",
-      "/scicomm/persea2017/index.html"
     ]
   }
 ]

@@ -1,0 +1,28 @@
+---
+title: "Luis M. Montilla"
+image: profile.png
+about:
+  template: trestles
+  links:
+    - icon: orcid
+      text: Orcid
+      href: https://orcid.org/0000-0002-7079-6775
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/luismmontilla
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com
+    - icon: github
+      text: Github
+      href: https://github.com/luismmontilla
+    - icon: google-scholar
+      text: Google Scholar
+      href: https://scholar.google.com/citations?hl=en&user=vwVkZfwAAAAJ&view_op=list_works&sortby=pubdate
+---
+
+### Technical Community Manager, Crossref
+
+Here you will find my links to my publications, academic social networks, side projects, and occasional blog posts. Feel free to contact me in case of any inquiry!
+
+![Part of the Marine Symbiomes Research group. Bacoli, 2022](gallery/marsym1.jpeg)

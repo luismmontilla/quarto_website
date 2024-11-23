@@ -12,13 +12,14 @@ lightbox: auto
 
 :::::::::::::: {.columns}
 ::: {.column width="47.5%"}
+![](gallery/IMG_8455.jpg)
 :::
 ::: {.column width="5%"}
 :::
 
 ::: {.column width="47.5%"}
 
-In my most recent position at Crossref, I joined the Community Engagement and Communications team as Technical Community Manager.
+In my most recent position at Crossref, I joined the Community Engagement and Communications team as Technical Community Manager. As part of this role among other things, I build and maintain relationships with the community that uses Crossref's metadata, I design and implement activities to engage all metadata users and grow the usage of the API.
 :::
 :::::::::::::: 
 

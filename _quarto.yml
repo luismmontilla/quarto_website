@@ -1,5 +1,7 @@
 project:
   type: website
+  resources:
+    "/.well-known/atproto-did"
 
 website:
   title: "Home"

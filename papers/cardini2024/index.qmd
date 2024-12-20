@@ -1,0 +1,43 @@
+---
+title: "Reciprocal nutritional benefits in a sponge-seagrass association"
+date: "2024-12-12"
+categories: [seagrasses, sponges]
+image: http://www.marinesymbiomes.eu/wp-content/uploads/2022/09/impulse-4x3-1.jpg
+author: 
+  - name: 
+      given: U.
+      family: Cardini
+    orcid: 0000-0002-0816-6158
+  - name: 
+      given: L. M.
+      family: Montilla
+    orcid: 0000-0002-7079-6775
+  - name: 
+      family: Zapata-Hernandez
+      given: G.
+    orcid: 0000-0003-3245-9118
+  - name: Berlinghof, J
+    orcid: 0000-0002-1622-1938
+  - name: Guarcini, E
+    orcid: 0000-0001-9852-3480
+  - name: Furia, M
+  - name: Margiotta, F
+    orcid: 0000-0003-0757-5934
+  - name: Meador, T
+    orcid: 0000-0001-8255-5883
+  - name: Wild, C
+    orcid: 0000-0001-9637-6536
+  - name: Fraschetti, S.
+    orcid: 0000-0002-1780-1651
+  - name: Olive, I
+    orcid: 0000-0002-4865-923X
+citation: 
+  doi: 10.1101/2024.12.06.627200
+---
+
+{{< fa file-lines >}} [Preprint](https://doi.org/10.1101/2024.12.06.627200) |
+{{< fa code >}} [Data](https://doi.org/10.5281/zenodo.14005723) 
+
+
+
+

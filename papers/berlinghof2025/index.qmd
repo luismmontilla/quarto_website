@@ -1,0 +1,52 @@
+---
+title: "Nitrification in a seagrass-sponge association"
+date: "2025-01-08"
+categories: [seagrasses, sponges]
+author: 
+  - name: 
+      given: J
+      family: Berlinghof 
+    orcid: 0000-0002-1622-1938
+  - name: 
+      given: L. M.
+      family: Montilla
+    orcid: 0000-0002-7079-6775
+  - name: 
+      given: T
+      family: Meador
+    orcid: 0000-0001-8255-5883
+  - name: 
+      family: Gallucci
+      given: L
+    orcid: 0009-0004-0892-6796
+  - name: 
+      family: Giovannelli
+      given: D
+    orcid: 0000-0001-7182-8233
+  - name:
+      family: Gruber-Vodicka
+      given: H
+    orcid: 0000-0001-5819-1549
+  - name:
+      family: Maselli
+      given: M
+    orcid: 0000-0001-5729-9574
+  - name:
+      family: Margiotta
+      given: F
+    orcid: 0000-0003-0757-5934
+  - name: 
+      family: Wild
+      given: C
+    orcid: 0000-0001-9637-6536
+  - name: 
+      given: U.
+      family: Cardini
+    orcid: 0000-0002-0816-6158
+abstract: "In the Mediterranean Sea, the demosponge Chondrilla nucula can occur in close association with the native seagrass Posidonia oceanica. C. nucula harbors a diverse and abundant microbial community, including potential nitrifiers. Thus, the sponge may contribute to the nitrogen (N) demand of the seagrass holobiont. In this study, we investigated potential nitrification rates (PNR) and inorganic N fluxes within this association at a site where C. nucula covered 18 ± 3 % of the seagrass meadow area, during plant growth (spring) and senescence (autumn). Using incubation experiments with 15N-labeled ammonium, we measured PNR and inorganic N of the seagrass-sponge association, and of sponge and seagrass independently, under light and dark conditions. We supplemented these experiments with 16s rRNA gene amplicon sequencing to characterize the microbial community of the sponge. PNR was exclusively measured when the sponge was present (alone or in association with the seagrass). PNR was highest in the dark and when C. nucula was associated with the seagrass, ranging from 21 ± 7 to 267 ± 33 nmol N g DW-1 h-1 in spring and autumn, respectively. Sponge-mediated PNR can support 8% of the N demand of the P. oceanica holobiont during growth and 47 % during senescence. We identified key nitrifying bacterial and archaeal groups as members of the sponge's microbial community. While C. nucula released inorganic N, potentially sustaining the seagrass, it benefitted from dissolved organic carbon released by P. oceanica. These results suggest that the interaction between C. nucula and P. oceanica is mutually beneficial, ultimately supporting and stabilizing the seagrass ecosystem."
+citation: 
+  container-title: bioRxiv
+  doi: 10.1101/2025.01.07.631680 
+---
+
+{{< fa file-lines >}} [Preprint](https://doi.org/10.1101/2025.01.07.631680) 

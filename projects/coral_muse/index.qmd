@@ -5,7 +5,8 @@ date: 2020-04-02
 categories:
   - corals
   - R
-  - Reproducible notebook
+  - Research compendium
 doi: https://doi.org/10.5281/zenodo.3737675
 url: https://github.com/luismmontilla/coral_muse
+image: https://research-compendium.science/rc-logo.png
 ---

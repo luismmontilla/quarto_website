@@ -3,9 +3,9 @@ title: "Data and code for 'Analysis of 50 years of coral disease research visual
 date: "2018-12-15"
 categories:
   - corals
-  - Reproducible notebook
+  - Research compendium
   - R
-image: "image.jpg"
+image: https://research-compendium.science/rc-logo.png
 doi: https://doi.org/10.5281/zenodo.2288027
 url: https://github.com/luismmontilla/codirnet
 ---

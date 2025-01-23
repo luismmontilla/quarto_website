@@ -3,6 +3,7 @@ title: Data and code for 'The use of pseudo-multivariate standard error to impro
 abstract: "This repository contains the data and code for our paper:  Montilla et al. (2020). The use of pseudo-multivariate standard error to improve the sampling design of coral monitoring programs PeerJ. https://doi.org/10.7717/peerj.8429"
 date: 2020-04-02
 categories:
+  - corals
   - R
   - Reproducible notebook
 doi: https://doi.org/10.5281/zenodo.3737675

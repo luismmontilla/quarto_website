@@ -1,7 +1,11 @@
 ---
-title: "COdirnet"
-date: "2022-07-22"
-categories: [corals]
+title: "Data and code for 'Analysis of 50 years of coral disease research visualized through the scope of network theory.'"
+date: "2018-12-15"
+categories:
+  - corals
+  - Reproducible notebook
+  - R
 image: "image.jpg"
-draft: true
+doi: https://doi.org/10.5281/zenodo.2288027
+url: https://github.com/luismmontilla/codirnet
 ---

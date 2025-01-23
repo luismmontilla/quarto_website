@@ -5,7 +5,7 @@ categories:
   - Podcast
   - Español
   - SciComm
-image: /denht_hex.jpeg
+image: https://media.mast.lat/mast/accounts/avatars/111/519/212/272/153/395/original/5b0f43aaa543e7d5.jpg
 ---
 :::::::::::::: {.columns}
 

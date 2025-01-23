@@ -2,5 +2,6 @@
 title: "Systematic review and meta-analysis of 50 years of coral disease research visualized through the scope of network theory"
 date: "2019-06-04"
 categories: [corals, networks]
-image: "image.jpg"
+image: "https://dfzljdn9uc3pi.cloudfront.net/2019/7041/1/fig-5-1x.jpg"
+doi: https://doi.org/10.7717/peerj.7041
 ---

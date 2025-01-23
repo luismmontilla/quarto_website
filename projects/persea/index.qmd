@@ -1,0 +1,12 @@
+---
+title: Revista Persea
+image: https://revistapersea.com/wp-content/uploads/2023/09/Logo-I.png
+date: 2017-08-17
+categories:
+  - Español
+  - SciComm
+---
+I authored two articles for [Persea Magazine](https://revistapersea.com/):
+
+- [Descubriendo las bestias de la Venezuela prehistórica](https://revistapersea.com/ciencias-de-la-vida/descubriendo-las-bestias-de-la-venezuela-prehistrica/). Part of the compilation [REVISTA PERSEA vol. 1](https://a.co/2RS6vss)
+- [Un paraíso ecológico en declive en el Caribe](https://revistapersea.com/ambiente-1/un-paraso-ecolgico-en-declive-en-el-caribe/).

@@ -1,0 +1,10 @@
+---
+title: Ecotropicos
+date: 2017-09
+categories: 
+  - Scientific publishing
+image: https://ecotropicos.svecologia.org/public/journals/1/pageHeaderLogoImage_en.png
+abstract: "Ecotropicos is the diamond open-access scientific journal of the Venezuelan Society of Ecology, dedicated to advancing tropical ecology through peer-reviewed research on ecosystems, biodiversity, and environmental dynamics in tropical regions worldwide."
+---
+
+https://ecotropicos.svecologia.org/

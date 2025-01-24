@@ -1,0 +1,13 @@
+---
+title: "Data and code for 'Accelerated Nitrogen cycling on Mediterranean seagrass leaves at volcanic CO2 vents'"
+date: "2023-06-16"
+categories:
+  - seagrasses
+  - Research compendium
+  - biogeochemistry
+  - microbiome
+  - R
+image: https://research-compendium.science/rc-logo.png
+doi: https://doi.org/10.5281/zenodo.8047180
+url: https://github.com/luismmontilla/embrace
+---

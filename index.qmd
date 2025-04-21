@@ -14,10 +14,14 @@ about:
       href: https://www.linkedin.com/in/luismmontilla/
     - text: "{{< iconify bi github >}} Github"
       href: https://github.com/luismmontilla
+    - text: "{{< iconify bi gitlab >}} Gitlab"
+      href: https://gitlab.com/luismontilla
     - text: "{{< iconify material-symbols person >}} OpenAlex"
       href: https://openalex.org/authors/a5027349295   
     - text: "{{< iconify academicons google-scholar >}} Google Scholar"
       href: https://scholar.google.com/citations?hl=en&user=vwVkZfwAAAAJ&view_op=list_works&sortby=pubdate
+    - text: "{{< iconify fa-regular newspaper >}} Scholia"
+      href: https://scholia.toolforge.org/author/Q57276976  
 ---
 
 ### From studying life beneath the waves to creating connections above them

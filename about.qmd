@@ -1,8 +1,6 @@
 ---
 title: "Timeline"
-filters: 
-  - lightbox
-lightbox: auto
+lightbox: true
 ---
 
 ## Crossref (Present)
@@ -12,7 +10,7 @@ lightbox: auto
 
 :::::::::::::: {.columns}
 ::: {.column width="47.5%"}
-![](gallery/IMG_8455.jpg)
+![](gallery/IMG_8455.jpg){group="crossref"}
 :::
 ::: {.column width="5%"}
 :::
@@ -50,9 +48,11 @@ I joined the team at the Directory of Open Access Journals as a Managing Editor,
 
 ::: {.column width="47.5%"}
 ![](gallery/marsym1.jpeg){group="marsym"}
+
 ![](gallery/marsym3.jpeg){group="marsym"}
 
 ![](gallery/marsym2.jpeg){group="marsym"}
+
 ![](gallery/marsym4.jpeg){group="marsym"}
 :::
 
@@ -88,10 +88,11 @@ Ecology Laboratory, where I completed both my Bachelor's and Master's theses. Th
 
 
 ::: {.column width="47.5%"}
-![](gallery/lee3.jpg)
-![](gallery/lee2.jpg)
+![](gallery/lee3.jpg){group="lee"}
 
-![](gallery/lee1.jpg)
+![](gallery/lee2.jpg){group="lee"}
+
+![](gallery/lee1.jpg){group="lee"}
 
 :::
 

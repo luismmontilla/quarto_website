@@ -12,14 +12,14 @@ website:
     right:
       - href: publications.qmd
         text: Publications
-      - href: blog.qmd
-        text: Blog
+      - href: events.qmd
+        text: Events and talks
       - href: projects.qmd
         text: Projects
-      - href: timeline.qmd
-        text: Timeline
       - href: scicomm.qmd
         text: SciComm
+      - href: about.qmd
+        text: About
 format:
   html:
     theme:

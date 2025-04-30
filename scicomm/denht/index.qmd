@@ -5,17 +5,4 @@ categories:
   - Español
 image: /denht_hex.jpeg
 ---
-:::::::::::::: {.columns}
-
-::: {.column width="45%"}
-[![](denht_hex.jpeg)](https://www.nohaytesispodcast.com/)
-:::
-
-::: {.column width="10%"}
-:::
-
-::: {.column width="45%"}
-Un podcast donde se habla de ciencias y también de Bad Bunny; donde los científicos nos cuentan el detrás de cámaras de su día a día. #ComunicaCiencia. Visita [https://www.nohaytesispodcast.com/](https://www.nohaytesispodcast.com/)
-:::
-
-:::::::::::::: 
+Jump to [De esto no hay tesis](/projects/denht/)

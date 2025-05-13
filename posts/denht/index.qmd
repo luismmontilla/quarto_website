@@ -1,0 +1,8 @@
+---
+title: "De esto no hay tesis"
+categories:
+  - Podcast
+  - Español
+image: /denht_hex.jpeg
+---
+Jump to [De esto no hay tesis](/projects/denht/)

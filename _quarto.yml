@@ -16,8 +16,8 @@ website:
         text: Events and talks
       - href: projects.qmd
         text: Projects
-      - href: scicomm.qmd
-        text: SciComm
+      - href: posts.qmd
+        text: Posts
       - href: about.qmd
         text: About
 format:

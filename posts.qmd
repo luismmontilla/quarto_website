@@ -1,0 +1,15 @@
+---
+listing:
+  contents: posts/**/*.qmd
+  sort: "date desc"
+  type: grid
+  categories: true
+  sort-ui: true
+  filter-ui: true
+  fields: [date, title, reading-time, description, categories]
+  feed: false
+page-layout: full
+title-block-banner: false
+---
+
+Under construction

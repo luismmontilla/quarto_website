@@ -1,0 +1,16 @@
+---
+title: "Venezuelan coral reefs: A health assessment using the Reef Health Index with complementary variables"
+date: "2023-03-31"
+categories:
+  - Coral
+  - R
+  - Shiny
+image: "image.jpg"
+author: Luis Montilla
+---
+
+After building my first humble Shiny App, I wanted to see what else could I do. In this case, the goal was make a sort of interactive poster based on one of our [contributions](https://doi.org/10.5281/zenodo.3235468) to the the AMLC 2019 conference. 
+
+:::{.column-page}
+<iframe width="100%" height="900px" src="https://lumimoto.shinyapps.io/shinyvenrhi/"> </iframe>
+:::

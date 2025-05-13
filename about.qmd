@@ -1,6 +1,9 @@
 ---
 title: "About"
-lightbox: true
+lightbox:
+    match: auto
+    effect: zoom
+    loop: true
 ---
 
 ## Crossref (Present)

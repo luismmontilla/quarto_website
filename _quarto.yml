@@ -22,8 +22,7 @@ website:
         text: About
 format:
   html:
-    theme:
-      dark: darkly
+    theme: darkly
 
 
 

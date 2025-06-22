@@ -1,0 +1,45 @@
+/*-- scss:defaults --*/
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+
+$theme-red: #ef3340;
+$theme-blue: #3eb1c8;
+$theme-pink: #d8d2c4;
+$theme-yellow: #ffc72c;
+$theme-grey: #4f5858;
+
+$presentation-heading-color: darken($theme-blue, 15%);
+
+// fonts
+$font-family-sans-serif: Inter, sans-serif;
+
+/*-- scss:rules --*/
+
+.reveal .slide-logo {
+  display: block;
+  position: fixed;
+  bottom: unset !important;
+  left: unset !important;
+  top: 5px;
+  right: 40px;
+  height: 40px !important;
+  width: 40x !important;
+  max-width: unset !important;
+  max-height: unset !important;
+}
+
+.theme-title1 {
+  h1 {
+    color:  #FFFFFF;
+    text-align: center;
+    font-size: 4em;
+  }
+
+  h2 {
+    text-align: center;
+    font-size: 3em;
+  }
+  h3 {
+    color:  #FFFFFF;
+    text-align: center;
+  }
+}

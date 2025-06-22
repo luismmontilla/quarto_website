@@ -1,0 +1,10 @@
+---
+title: "Workshop on Open Citations
+& Open Scholarly Metadata 2025"
+image: https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2jo63sqvdnghpwuqidrcja7n/bafkreiagxpjch5crnlhvk2scqc7m6brxtuqdvj2y3mvl7kelk5ufdonnvm@jpeg
+year: 2025
+country: Italy
+---
+[Poster](https://luismontilla.gitlab.io/wooc2025)
+
+![](https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2jo63sqvdnghpwuqidrcja7n/bafkreiagxpjch5crnlhvk2scqc7m6brxtuqdvj2y3mvl7kelk5ufdonnvm@jpeg)

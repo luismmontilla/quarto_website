@@ -1,0 +1,164 @@
+---
+logo: https://assets.crossref.org/logo/crossref-logo-landscape-200.svg
+categories:
+  - "Scholarly infrastructure"
+  - "talk"
+  - "Español"
+date: "2024-07-19"
+format: 
+  revealjs:
+    #css: custom_crossref.css
+    theme: crossref.scss
+    title-slide-attributes: 
+      data-background-image: images/balloons.png
+      data-background-size: cover
+---
+
+# Metadatos asociados a productos de actividades en conservación {.center .theme-title1 background-image="images/balloons.png"}
+
+
+
+:::{.center style="color:#FFFFFF"}
+Luis M. Montilla, Technical Community Manager. Crossref
+:::
+
+## About 
+
+Luis Miguel Montilla
+
+- Egresado USB (Lic. Biologia, M. Ciencias Biologicas)
+- Egresado OU + SZN (Italia) (Ph.D. Philosophy)
+- Technical Community Manager (Crossref)
+
+## Meta? Datos?
+
+::::::: {.columns}
+::: {.column}
+![](https://upload.wikimedia.org/wikipedia/commons/7/7e/Epepeotes_uncinatus_%40_Kanjirappally_Exif_02.png)
+:::
+:::{.column}
+![](https://upload.wikimedia.org/wikipedia/commons/7/7e/Schlagwortkatalog.jpg)
+:::
+:::::::
+
+Información que describe un objeto
+
+:::{.footer}
+Praveenp, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons | Dr. Marcus Gossler, CC BY-SA 3.0 <http://creativecommons.org/licenses/by-sa/3.0/>, via Wikimedia Commons
+:::
+
+## Ah! Metadatos (académicos)
+
+![](images/rodriguez_et_al.png)
+
+:::{.footer}
+[https://doi.org/10.3390/d15030443](https://doi.org/10.3390/d15030443)
+:::
+
+## Ah! Metadatos (académicos)
+
+```{=html}
+<iframe width="1000" height="500" src="https://jsonhero.io/j/tVERlc6VOT65" ></iframe>
+```
+:::{.footer}
+[http://api.crossref.org/works/doi/10.3390/d15030443](http://api.crossref.org/works/doi/10.3390/d15030443)
+:::
+
+## Metadatos académicos y el Nexo de Investigación
+
+::::::: {.columns}
+::: {.column}
+
+![](https://i.imgflip.com/8xgj9o.jpg){width=65%}
+:::
+:::{.column}
+
+Podemos pensar que los metadatos son cosa de los editores (o no pensar nada al respecto)
+
+:::
+:::::::
+
+
+## Conservación no es la excepción
+
+Ve **menti.com** y usa el codigo 6721 0004
+
+```{=html}
+<div style='position: relative; padding-bottom: 56.25%; padding-top: 35px; height: 0; overflow: hidden;'><iframe sandbox='allow-scripts allow-same-origin allow-presentation' allowfullscreen='true' allowtransparency='true' frameborder='0' height='315' src='https://www.mentimeter.com/app/presentation/alf9cwvokdht3td2wpbjzqdjyccj4roe/embed' style='position: absolute; top: 0; left: 0; width: 100%; height: 100%;' width='420'></iframe></div>
+```
+
+## Metadatos académicos y el Nexo de Investigación
+
+![](https://www.crossref.org/images/documentation/research-nexus-2023-final.png){fig-align="center" width=80%}
+
+Todo se conecta y todo es relevante
+
+:::{.footer}
+[https://www.crossref.org/documentation/research-nexus/](https://www.crossref.org/documentation/research-nexus/)
+:::
+
+## Encontrabilidad y Transparencia
+
+Estos productos son parte del ecosistema académico
+
+```{=html}
+<iframe src='https://openalex.org/' width="1000" height="500"></iframe>
+```
+
+## Encontrabilidad y Transparencia
+
+Reportar identidad y afiliaciones
+
+- ORCID (Open Researcher and Contributor ID) 
+- ROR (Research Organization Registry)
+
+![](images/rodriguez_et_al.png)
+
+## Encontrabilidad y Transparencia
+
+Financistas y financiamiento 
+
+```{=html}
+<iframe width="1000" height="500" src="https://jsonhero.io/j/d1nQR7Mim61F" ></iframe>
+```
+
+![](https://www.crossref.org/images/community-images/gls/gls-benefits.png){fig-align="center" width=35%}
+
+## Referencias
+
+```{mermaid}
+%%| fig-width: 10
+flowchart LR
+  A[Referencia 1] --> B{Nuestro objeto}
+  D[Referencia 2] --> B{Nuestro objeto}
+  B --> C[Citado por A]
+  B --> E[Citado por B]
+```
+
+Con referencias abiertas podemos saber quien y como se citan nuestros objetos
+
+## Encontrabilidad y Transparencia
+
+```{=html}
+<iframe width="1000" height="500" src="https://www.crossref.org/members/prep/31857" ></iframe>
+```
+
+## ¿Cómo podemos tomar parte?
+::::::: {.columns}
+::: {.column}
+![](images/shane-rounce-DNkoNXQti3c-unsplash.jpg){width=80%}
+:::
+::: {.column}
+Abrir y/o actualizar tu perfil ORCID (usarlo).
+
+Enriquezcamos los metadatos de los productos en los que estamos involucrados.
+:::
+:::::::
+
+:::{.footer}
+Photo by <a href="https://unsplash.com/@shanerounce?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Shane Rounce</a> on <a href="https://unsplash.com/photos/a-group-of-people-holding-hands-on-top-of-a-tree-DNkoNXQti3c?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+:::
+
+## ¿Preguntas?
+
+Muchas gracias por atención

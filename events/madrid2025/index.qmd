@@ -1,0 +1,12 @@
+---
+title: Crossref Metadata Sprint Madrid
+date: 2025-04-08
+image: https://www.crossref.org/images/blog/2025/sprint_collage.jpg
+categories:
+    - Scholarly metadata
+---
+> If you take a peek at our blog, you’ll notice that metadata and community are the most frequently used categories. This is not a coincidence – community is central to everything we do at Crossref. Our first-ever Metadata Sprint was a natural step in strengthening both. Cue fanfare!. And what better way of celebrating 25 years of Crossref?
+> 
+> We designed the Crossref Metadata Sprint as a relatively short event where people can form teams and tackle short problems. What kind of problems? While we expected many to involve coding, teams also explored documenting, translating, researching—anything that taps into our open, member-curated metadata. Our motivation behind this format was to create a space for networking, collaboration, and feedback, centered on co-creation using the scholarly metadata from our REST API, the Public Data File, and other sources.
+
+You can read the rest of the post in the [Crossref blog](https://doi.org/10.64000/30m1m-e8477).

@@ -7,4 +7,5 @@ abstract: No todo son libros en la edición académica, las revistas científica
 citation: 
   container-title: Revista Unilibros
 ---
+
 ![](/gallery/Unilibros_38-39_compressed.pdf){width=100% height=800}

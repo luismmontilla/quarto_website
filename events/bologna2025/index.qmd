@@ -5,6 +5,8 @@ image: https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2jo63sqvdnghpwuqidrc
 year: 2025
 country: Italy
 ---
-[Poster](https://luismontilla.gitlab.io/wooc2025)
+{{< fa file-invoice >}} [Extended poster](https://luismontilla.gitlab.io/wooc2025)
 
-![](https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2jo63sqvdnghpwuqidrcja7n/bafkreiagxpjch5crnlhvk2scqc7m6brxtuqdvj2y3mvl7kelk5ufdonnvm@jpeg)
+I presented a short spatial analysis of Crossref member metrics in the Workshop on Open Citations & Open Scholarly Metadata 2025.
+
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2jo63sqvdnghpwuqidrcja7n/bafkreiagxpjch5crnlhvk2scqc7m6brxtuqdvj2y3mvl7kelk5ufdonnvm@jpeg" alt="A group of people" width="500">

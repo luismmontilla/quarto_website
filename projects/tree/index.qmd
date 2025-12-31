@@ -9,7 +9,7 @@ image: https://svecologia.github.io/repositorio-tesis/logo.svg
 :::::::::::::: {.columns}
 
 ::: {.column width="45%"}
-[![](https://svecologia.github.io/repositorio-tesis/logo.svg)](https://svecologia.github.io/){width=50%}
+[![](https://svecologia.github.io/repositorio-tesis/logo.svg)](https://svecologia.github.io/repositorio-tesis/){width=50%}
 :::
 
 ::: {.column width="10%"}

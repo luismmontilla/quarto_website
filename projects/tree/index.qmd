@@ -24,10 +24,10 @@ Las tesis son un componente fundamental en el proceso de investigación; a menud
 
 En el caso específico de Venezuela, el contexto político y económico de las últimas decadas ha conllevado un colapso en las Universidades públicas, y con ello también, los trabajos de preservación de las bibliotecas y repositorios institucionales.
 
-La idea detrás de este proyecto es 
+La intención detrás de este proyecto es:
 
-Reactivar un esfuerzo iniciado originalmente en *Ecotrópicos*, la revista científica de la Sociedad Venezolana de Ecología, en la cual se publicaban resúmenes de tesis en diferentes áreas de las ciencias ecológicas.
+- Reactivar un esfuerzo iniciado originalmente en *Ecotrópicos*, la revista científica de la Sociedad Venezolana de Ecología, en la cual se publicaban resúmenes de tesis en diferentes áreas de las ciencias ecológicas.
 
-Incrementar la visibilidad de trabajos que se encuentran en repositorios pero que no son encontrables por bases de datos abiertas, y al mismo tiempo enriquecerlos con metadatos académicos relevantes.
+- Incrementar la visibilidad de trabajos que se encuentran en repositorios pero que no son encontrables por bases de datos abiertas, y al mismo tiempo enriquecerlos con metadatos académicos relevantes.
 
-Proveer un repositorio centralizado de tesis para la comunidad de Ecólogos de Venezuela.
+- Proveer un repositorio centralizado de tesis para la comunidad de Ecólogos de Venezuela.

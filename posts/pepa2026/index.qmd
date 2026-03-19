@@ -1,0 +1,38 @@
+---
+title: Lanzamiento del portal PEPA
+date: 2026-03-19
+image: https://www.une.es/media/2026/Presentacion_PEPA.jpg
+categories: 
+  - Español
+  - Scholarly metadata
+---
+Tuve la fortuna de haber sido invitado en representación de Crossref al lanzamiento del portal PEPA, la **P**lataforma **E**ditorial de **P**ublicaciones en **A**bierto, de las editoriales de la Unión de Editoriales Universitarias Españolas.
+
+![](https://ia903102.us.archive.org/9/items/img-6891/IMG_6891.jpg)
+
+El lanzamiento, que inició con la presentación de Sebastiano Sali representando a OAPEN mostró otra forma en que los metadatos académicos abiertos se integran desde sus fuentes, distribuidos mediante la infraestructura de Crossref, para ser luego reusados e integrados en nuevos sistemas *downstream*.
+
+```{mermaid}
+flowchart LR
+  A([Editorial A]) --> B[Crossref]
+  C([Editorial B]) --> B[Crossref]
+  D([Editorial C]) --> B[Crossref]
+  B[Crossref] --> E[PEPA]
+  E[PEPA] --> F[DOAB]
+```
+
+No solo eso, sino también resulta fascinante entender como diferentes miembros de la comunidad académica interactúan en uno o más niveles para integrar el [nexo de investigación](https://www.crossref.org/documentation/research-nexus/). Por ejemplo, otros miembros de la *[Trusted Platform Network](https://www.doabooks.org/en/trusted-platform-network/doab-trusted-platform-network)* del DOAB, son también parte de Crossref, dando lugar a conexiones más complejas como:
+
+```{mermaid}
+flowchart LR
+  A([Editorial A]) --> B[Crossref]
+  C([Editorial B]) --> B[Crossref]
+  D([Editorial C]) --> B[Crossref]
+  B[Crossref] --> E[PEPA]
+  E[PEPA] --> F[DOAB]
+  G([Editorial D]) --> J[SIMEH]
+  H([Editorial E]) --> J[SIMEH]
+  I([Editorial F]) --> J[SIMEH]
+  J[SIMEH] --> B[Crossref]
+  J[SIMEH] --> F[DOAB]
+```

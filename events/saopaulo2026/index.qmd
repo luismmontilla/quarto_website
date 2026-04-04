@@ -1,0 +1,16 @@
+---
+title: Crossref Metadata Sprint São Paulo
+date: 2026-03-04
+image: https://www.crossref.org/images/blog/2026/sprint-2026-participants.jpg
+categories:
+    - Scholarly metadata
+bibliography: references.bib
+csl: plos.csl
+---
+
+As a continuation of the first Crossref Metadata Sprint in Madrid [@Montilla_2025] I had the opportunity of helping to organize the second edition, this time across the ocean, in the warm city of São Paulo.
+
+![](https://www.crossref.org/images/blog/2026/sprint-2026-participants.jpg)
+
+You can read about the entire experience in the [Crossref blog](https://doi.org/10.64000/a5qzf-k1738) [@Montilla_2026].
+

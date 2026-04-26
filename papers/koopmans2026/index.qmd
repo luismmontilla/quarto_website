@@ -1,0 +1,45 @@
+---
+title: "Benthic Ecosystem Calcification Measured with Coupled pH and O2 Aquatic Eddy Covariance"
+date: 2026-04-21
+categories: [seagrasses] 
+abstract: "We present a method to quantify benthic ecosystem calcification from simultaneous pH (proton) and $O_{2}$ eddy covariance flux measurements. In benthic ecosystems, photosynthesis is a proton sink, while calcification is a proton source. Where calcification is the dominant nonmetabolic proton source, it can be isolated as the residual between the measured proton flux and the flux predicted from O2-derived metabolism. We demonstrate this technique in _Posidonia oceanica_ seagrass meadows near Ischia, Italy, where coralline algae epiphytes are the primary calcifiers. The method resolved a diurnal calcification signal consistent in magnitude with previous estimates for seagrass epiphytes. However, our pH measurements and proton fluxes also revealed widespread, diffusive $CO_2$ vent influence at both the vent-adjacent site and the control site (670 m away), demonstrating that control sites near natural $CO_2$ vents may not provide the stable baseline often assumed. Excluding the vent-affected data removed substantial portions of the data set, resulting in high uncertainty, while also illustrating the insights that high-speed multiparameter sensing provides. Our error analysis identifies accuracy in pH, alkalinity, and the ecosystem photosynthetic quotient as critical constraints on this and other pH-$O_2$ based calcification measurements, particularly in environments where calcification rates are small relative to metabolic fluxes."
+author: 
+  - name: 
+      family: Koopmans
+      given: D.
+    orcid: 0000-0003-4026-672X
+  - name: 
+      family: Schaap
+      given: A.
+    orcid: 0000-0001-5391-0516
+  - name:   
+      given: V.
+      family: Meyer
+  - name: 
+      family: Färber
+      given: P.
+  - name:   
+      given: L.
+      family: Queiss
+    orcid: 0009-0002-9442-1596
+  - name:   
+      given: L. M.
+      family: Montilla
+    orcid: 0000-0002-7079-6775
+  - name: 
+      family: Loucaides
+      given: S.
+    orcid: 0000-0001-5285-660X
+  - name:   
+      given: S.
+      family: Ahmerkamp
+    orcid: 0000-0002-7079-6775
+  - name:  
+      given: U.
+      family: Cardini
+    orcid: 0000-0002-0816-6158
+image: https://pubs.acs.org/cms/10.1021/acsestwater.5c00481/asset/images/medium/ew5c00481_0002.gif
+citation: 
+  container-title: ACS ES&T Water
+  doi: 10.1021/acsestwater.5c00481
+---

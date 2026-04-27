@@ -1,0 +1,55 @@
+---
+title: "Reciprocal nutritional benefits in a Mediterranean seagrass-sponge association"
+date: 2026-04-27
+categories: [seagrasses, sponges] 
+abstract: "Sponges commonly form associations within seagrass meadows, but their potential impact on seagrass productivity and nutrient cycles remains poorly understood. This study investigates the association between the demosponge _Chondrilla nucula_ and the Mediterranean seagrass _Posidonia oceanica_ in two sampling occasions during the plant growth (spring) and senescence (autumn) seasons at a small inlet near Naples, Italy, where the sponge grows conspicuously within the seagrass bed. We found a non-linear relationship between the benthic cover of the sponge and the seagrass, with higher _C. nucula_ cover linked to intermediate P. oceanica cover, suggesting spatial dependence. _Posidonia oceanica_ showed higher net primary production (NPP) in spring, while _C. nucula_ was net heterotrophic in spring but exhibited near zero metabolic balance in autumn . NPP remained stable when the two organisms were associated, regardless of the season. _Chondrilla nucula_ consistently contributed inorganic nutrients to the association in the form of phosphate, ammonium, and substantial nitrate, recycling nutrients that potentially benefited _P. oceanica_ in its growth season. In return, the seagrass released dissolved organic carbon in spring , which is consistent with supporting sponge heterotrophic nutrition. These findings suggest reciprocal benefits in the interaction between _C. nucula_ and _P. oceanica_, with nutrient exchange facilitating a facultative mutualism that potentially supports and stabilizes the productivity of the seagrass ecosystem."
+author: 
+  - name:  
+      given: U.
+      family: Cardini
+    orcid: 0000-0002-0816-6158
+  - name:   
+      given: L. M.
+      family: Montilla
+    orcid: 0000-0002-7079-6775
+  - name: 
+      family: Zapata-Hernández
+      given: G.
+    orcid: 0000-0003-3245-9118
+  - name: 
+      family: Berlinghof
+      given: J.
+    orcid: 0000-0002-1622-1938
+  - name:   
+      given: E.
+      family: Guarcini
+    orcid: 0000-0001-9852-3480
+  - name: 
+      family: Furia
+      given: M.
+    orcid: 0009-0008-1684-4319
+  - name:   
+      given: F.
+      family: Margiotta
+    orcid: 0000-0003-0757-5934
+  - name: 
+      family: Meador
+      given: T.
+    orcid: 0000-0001-8255-5883
+  - name:   
+      given: C.
+      family: Wild
+    orcid: 0000-0001-9637-6536
+  - name:   
+      given: S.
+      family: Fraschetti
+    orcid: 0000-0001-9637-6536
+  - name:   
+      given: I.
+      family: Olivé
+    orcid: 0000-0002-4865-923X
+#image: https://pubs.acs.org/cms/10.1021/acsestwater.5c00481/asset/images/medium/ew5c00481_0002.gif
+citation: 
+  container-title: PeerJ
+  #doi: 10.1021/acsestwater.5c00481
+---

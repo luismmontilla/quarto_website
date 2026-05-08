@@ -255,9 +255,12 @@ keywords:
  - repository
  - research integrity
  - responsible research
+type: Preprint
 citation: 
   container-title: bioRxiv
   doi: 10.32942/X26W9V
 ---
 
-{{< fa file-lines >}} [Preprint](https://doi.org/10.32942/X26W9V) 
+|Related items|
+|:-:|
+|{{< fa chart-line >}} {{< fa code >}} [Data and Code](https://doi.org/10.5281/zenodo.19737911)|

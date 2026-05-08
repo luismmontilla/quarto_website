@@ -1,11 +1,29 @@
 ---
 title: "Accelerated Nitrogen Cycling on Seagrass Leaves in a High-CO2 World"
-date: "2023-07-22"
+date: "2023-05-22"
 categories: [seagrasses]
 image: "image.jpg"
+doi: 10.1101/2023.05.19.541481v1
+type: Preprint
+author: 
+  - name: Berlinghof J
+  - name: Montilla LM
+    orcid: https://orcid.org/0000-0002-7079-6775
+  - name: Peiffer F 
+  - name: Quero GM 
+  - name: Marzocchi U 
+  - name: Meador TB 
+  - name: Margiotta F 
+  - name: Abagnale  M 
+  - name: Wild C
+  - name: Cardini C
+abstract: "Seagrass meadows form highly productive and diverse ecosystems in coastal areas worldwide, where they are increasingly exposed to ocean acidification (OA). Efficient nitrogen (N) cycling and uptake are essential to maintain plant productivity, but the effects of OA on N transformations in these systems are poorly understood. Here we show that complete N cycling occurs on leaves of the Mediterranean seagrass _Posidonia oceanica_, with OA affecting both N gain and loss while the prokaryotic community structure remains largely unaffected. Daily leaf-associated $N_2$ fixation contributed to 35% of the plant’s N demand under ambient pH, whereas it contributed to 45% under OA. Nitrification potential was only detected under OA, and N-loss via $N_2$ production increased, although the balance remained decisively in favor of enhanced N gain. Our work highlights the role of the N-cycling microbiome in seagrass adaptation to OA, with key N transformations accelerating towards increased N gain"
+citation: 
+  container-title: bioRxiv
+  doi: 10.1101/2023.05.19.541481v1
 ---
-
-{{< fa file-lines >}} [Preprint](https://www.biorxiv.org/content/10.1101/2023.05.19.541481v1) |
-{{< fa code >}} [Data and code](https://github.com/luismmontilla/embrace) 
-
-> Berlinghof J, **Montilla LM**, Peiffer F, Quero GM , Marzocchi U, Meador TM, Margiotta F, Abagnale M, Wild C, Cardini C. 2022. *Accelerated Nitrogen Cycling on Seagrass Leaves in a High-CO2 World*. BioRXiv. DOI: [10.1101/2023.05.19.541481v1](https://www.biorxiv.org/content/10.1101/2023.05.19.541481v1)
+|Related items|
+|:-:|
+|{{< fa chart-line >}} {{< fa code >}} [Data and Code](https://doi.org/10.5281/zenodo.8047180)|
+| {{< fa file-lines >}} [Article](http://dx.doi.org/10.1038/s42003-024-06011-0) |
+|{{< fa dna >}} [Sequence data](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA824287)|

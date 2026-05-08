@@ -39,6 +39,8 @@ author:
       family: Cardini
     orcid: 0000-0002-0816-6158
 image: https://pubs.acs.org/cms/10.1021/acsestwater.5c00481/asset/images/medium/ew5c00481_0002.gif
+doi: 10.1021/acsestwater.5c00481
+type: Journal article
 citation: 
   container-title: ACS ES&T Water
   doi: 10.1021/acsestwater.5c00481

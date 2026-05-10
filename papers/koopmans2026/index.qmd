@@ -45,3 +45,19 @@ citation:
   container-title: ACS ES&T Water
   doi: 10.1021/acsestwater.5c00481
 ---
+:::: {.columns}
+::: {.column width="60%"}
+
+|Related items|
+|:-:|
+
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="30%"}
+{{< altmetrics type=large-donut details=true >}}
+:::
+
+::::

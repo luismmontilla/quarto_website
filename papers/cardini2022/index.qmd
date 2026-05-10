@@ -3,8 +3,31 @@ title: "Nested interactions between chemosynthetic lucinid bivalves and seagrass
 date: "2022-07-22"
 categories: [seagrasses]
 image: "image.jpg"
+author:
+  - name: Ulisse Cardini
+    orcid: 0000-0002-0816-6158
+  - name: Lazaro Marín-Guirao
+  - name: Luis M. Montilla
+    orcid: 0000-0002-7079-6775
+  - name: Ugo Marzocchi
+  - name: Salvatore Chiavarini
+  - name: Juri Rimauro
+  - name: Grazia Marina Quero
+  - name: Jillian M. Petersen
+  - name: Gabriele Procaccini
+    orcid: 0000-0002-6179-468X
+doi: 10.3389/fpls.2022.918675
+abstract: "In seagrass sediments, lucinid bivalves and their chemoautotrophic bacterial symbionts consume $H_{2}S$, relying indirectly on the plant productivity for the presence of the reduced chemical. Additionally, the role of lucinid bivalves in N provisioning to the plant (through N2 fixation by the symbionts) was hypothesized. Thus, lucinids may contribute to sediment detoxification and plant fitness. Seagrasses are subject to ever-increasing human pressure in coastal environments. Here, disentangling nested interactions between chemosynthetic lucinid bivalves and seagrass exposed to pollution may help to understand seagrass ecosystem dynamics and to develop successful seagrass restoration programs that consider the roles of animal-microbe symbioses. We evaluated the capacity of lucinid bivalves (_Loripes orbiculatus_) to promote nutrient cycling and seagrass (_Cymodocea nodosa_) growth during a 6-week mesocosm experiment. A fully crossed design was used to test for the effect of sediment contamination (metals, nutrients, and hydrocarbons) on plant and bivalve (alone or interacting) fitness, assessed by mortality, growth, and photosynthetic efficiency, and for the effect of their nested interaction on sediment biogeochemistry. Plants performed better in the contaminated sediment, where a larger pool of dissolved nitrogen combined with the presence of other trace elements allowed for an improved photosynthetic efficiency. In fact, pore water nitrogen accumulated during the experiment in the controls, while it was consumed in the contaminated sediment. This trend was accentuated when lucinids were present. Concurrently, the interaction between clams and plants benefitted both organisms and promoted plant growth irrespective of the sediment type. In particular, the interaction with lucinid clams resulted in higher aboveground biomass of _C. nodosa_ in terms of leaf growth, leaf surface, and leaf biomass. Our results consolidate the notion that nested interactions involving animal-microbe associations promote ecosystem functioning, and potentially help designing unconventional seagrass restoration strategies that exploit chemosynthetic symbioses."
 ---
+:::: {.columns}
+::: {.column width="60%"}
+:::
 
-[Full text](https://doi.org/10.3389/fpls.2022.918675)
+::: {.column width="10%"}
+:::
 
-> Cardini U, Marín-Guirao L, **Montilla LM**, Marzocchi U, Chiavarini S, Rimauro J, Quero GM, Petersen JM, Procaccini G. 2022. *Nested interactions between chemosynthetic lucinid bivalves and seagrass promote ecosystem functioning in contaminated sediments*. Frontiers in Plant Science 13. DOI: [10.3389/fpls.2022.918675](https://www.frontiersin.org/articles/10.3389/fpls.2022.918675/full)
+::: {.column width="30%"}
+{{< altmetrics type=large-donut details=true >}}
+:::
+
+::::

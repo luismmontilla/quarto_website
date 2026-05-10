@@ -3,5 +3,36 @@ title: "On the importance of spatial scales on beta diversity of coral assemblag
 date: "2020-05-04"
 categories: [corals]
 image: "https://dfzljdn9uc3pi.cloudfront.net/2020/9082/1/fig-1-1x.jpg"
-doi: https://doi.org/10.7717/peerj.9082
+doi: 10.7717/peerj.9082
+author:
+  - name: "Emy Miyazawa"
+    orcid: 0000-0002-7507-208X
+  - name: "Luis M. Montilla"
+    orcid: 0000-0002-7079-6775
+  - name: "Esteban Alejandro Agudo-Adriani"
+    orcid: 0000-0001-7815-4120
+  - name: "Alfredo Ascanio"
+    orcid: 0000-0001-9987-7977
+  - name: "Gloria Mariño-Briceño"
+    orcid: 0000-0002-8877-3547
+  - name: "Aldo Croquer"
+    orcid: 0000-0001-8880-9338
+abstract: "Estimating variability across spatial scales has been a major issue in ecology because the description of patterns in space is extremely valuable to propose specific hypotheses to unveil key processes behind these patterns. This paper aims to estimate the variability of the coral assemblage structure at different spatial scales in order to determine which scales explain the largest variability on β-diversity. For this, a fully-nested design including a series of hierarchical-random factors encompassing three spatial scales: (1) regions, (2) localities and (3) reefs sites across the Venezuelan territory. The variability among spatial scales was tested with a permutation-based analysis of variance (Permanova) based on Bray-Curtis index. Dispersion in species presence/absence across scales (i.e., β-diversity) was tested with a PermDisp analysis based on Jaccard’s index. We found the highest variability in the coral assemblage structure between sites within localities (Pseudo-F = 5.34; p-value = 0.001, CV = 35.10%). We also found that longitude (Canonical corr = 0.867, p = 0.001) is a better predictor of the coral assemblage structure in Venezuela, than latitude (Canonical corr = 0.552, p = 0.021). Largest changes in β-diversity of corals occurred within sites (F = 2.764, df1= 35, df2 = 107, p = 0.045) and within localities (F = 4.438, df1= 6, df2 = 29, p = 0.026). Our results suggest that processes operating at spatial scales of hundreds of meters and hundreds of kilometers might both be critical to shape coral assemblage structure in Venezuela, whereas smaller scales (i.e., hundreds of meters) showed to be highly- important for the species turnover component of β-diversity. This result highlights the importance of creating scale-adapted management actions in Venezuela and likely across the Caribbean region."
 ---
+:::: {.columns}
+::: {.column width="60%"}
+
+|Related items|
+|:-:|
+|{{< fa images >}} [Data paper](https://doi.org/10.5281/zenodo.19737911)|
+|{{< fa images >}} [Raw images](https://doi.org/10.17605/OSF.IO/HE6QW )|
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="30%"}
+{{< altmetrics type=large-donut details=true >}}
+:::
+
+::::

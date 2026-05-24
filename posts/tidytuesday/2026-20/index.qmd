@@ -12,7 +12,7 @@ categories:
 execute:
   echo: false
   warning: false
-  freeze: true
+  freeze: auto
 format:
     html:
         code-tools: true

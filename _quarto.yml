@@ -24,6 +24,9 @@ format:
   html:
     theme: darkly
 
+execute:
+  freeze: auto
+
 
 
 

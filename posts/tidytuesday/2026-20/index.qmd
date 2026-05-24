@@ -12,7 +12,6 @@ categories:
 execute:
   echo: false
   warning: false
-  freeze: auto
 format:
     html:
         code-tools: true

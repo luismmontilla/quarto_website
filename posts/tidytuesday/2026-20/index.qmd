@@ -1,0 +1,145 @@
+---
+title: State of Crossref metadata by member country
+date: 2026-05-24
+author: 
+    name: Luis Montilla
+    orcid: 0000-0002-7079-6775
+categories:
+- TidyTuesday
+- Scholarly metadata
+- R
+- Dissertations
+execute:
+  echo: false
+  warning: false
+format:
+    html:
+        code-tools: true
+---
+
+```{r}
+#| label: libraries
+#| warning: false
+library(readr)
+library(dplyr)
+library(tidyr)
+library(ggplot2)
+library(gt)
+library(ggrepel)
+library(ggiraph)
+library(ggpomological)
+```
+
+```{r}
+#| label: member_participation_stats_by_country
+raw_participation <- read_csv("https://zenodo.org/api/records/19928426/files/member_participation_stats_by_country.csv/content")
+
+raw_coverage <- readr::read_csv("https://zenodo.org/api/records/19928426/files/metadata_coverage_stats_by_country.csv/content")
+```
+
+I'm returning from by partcipation at the EuroCRIS 2026 conferece thiking a lot about dissertations and other content types, so I thought it was appropriate to explore the metadata of this content type using Crossref data in the context of Tidy Tuesday[^1]. For that I'll filter data out to keep only the past quarter (Q1 2026) and only the content type `dissertation`.
+
+In the following plot let's explore which region accumulates more DOI deposits and out of those, what is the percetage of dissertations:
+
+```{r}
+total_records <- raw_coverage |>
+    filter(current_up_to == "2026-03-31") |>   # Q1 2026
+        summarise(
+            total_records = sum(n_dois), 
+            .by = region_id
+            )
+```
+
+```{r}
+#| echo: false
+df <- raw_coverage |> 
+        filter(current_up_to == "2026-03-31" & document_type == "dissertation") |>   # Q1 2026
+        summarise(
+            dissertations = sum(n_dois), 
+            with_ref = sum(with_ref),
+            with_abs = sum(with_abstract),
+            with_orc = sum(with_orcid),
+            with_ror_aff = sum(with_ror_id_for_affiliations),
+            with_epp = sum(with_crossmark),
+            .by = region_id
+            ) |>
+        left_join(total_records) |>
+        mutate(
+            label = case_when(
+                region_id == "EAS" ~ "East Asia & Pacific",
+                region_id == "ECS" ~ "Europe & Central Asia",
+                region_id == "LCN" ~ "Latin America & the Caribbean",
+                region_id == "MEA" ~ "Middle East, North Africa, Afghanistan & Pakistan",
+                region_id == "NAC" ~ "North America",
+                region_id == "SAS" ~ "South Asia",
+                region_id == "SSF" ~ "Sub-Saharan Africa", 
+                .default = NULL
+                )
+            ) |> 
+        select(-region_id)
+```
+
+```{r}
+props_region <- df |> 
+    mutate(
+        across(where(is.double) & !(total_records), ~ ((./total_records)*100))
+        ) |>
+    ggplot(aes(
+            x = total_records, 
+            y = dissertations
+            )
+        ) +
+        geom_point_interactive(aes(
+            tooltip = total_records, 
+            data_id = label
+        )) +
+        geom_text_repel(aes(
+        label = label,
+        family = "Inter"
+    )) +
+        labs(
+            y = "Percentage of dissertations (%)",
+            x = "Number of DOI records"
+        ) +
+        theme_minimal()
+ 
+girafe(props_region)
+```
+
+Interestingly, Latin America & the Caribbean clearly have deposited more diisertations records than other regions.
+
+One important aspect of the conversation that is not always evident, is that we should also take into account the quality and completeness of the metadata. 
+
+We could have 100% of an institution's production assigned with DOIs and those could also be just persistent IDs, without fully realizing the full potential of the potential of this tool. 
+
+Considering this, let's explore out of a region's total dissertation records, what's the percetage of records that includes some of the Crossref recommended metadata[^2]:
+
+```{r}
+df |> 
+    mutate(
+        across(starts_with("with_"), ~ (round((./dissertations)*100, 2)))
+        ) |> 
+    select(-c(total_records, dissertations)) |> 
+    gt(rowname_col = "label") |>
+        data_color(
+            palette = "viridis",
+            alpha = 0.3,
+            autocolor_text = FALSE
+            ) |> 
+        cols_label(
+            with_ref = "References",
+            with_abs = "Abstracts",
+            with_orc = "ORCIDs",
+            with_ror_aff = "ROR IDs",
+            with_epp = "Policy pages"
+        ) |> 
+            opt_interactive(
+                use_pagination = FALSE,
+                use_compact_mode = TRUE  
+            )
+```
+
+As expected, there are complexities in the scholarly record. From the first plot we see that Latin America & the Caribbean is the region that accumulates more dissertations, but each region has paid more attention to specific metadata fields. E.g. Sub-Saharan Africa leads the way with the percentage of dissertations metadata that include references and abstracts.
+
+[^1]: [Tidy Tuesday](https://github.com/rfordatascience/tidytuesday)
+[^2]: [Crossref documentation: Required, recommended, and optional metadata](https://www.crossref.org/documentation/schema-library/required-recommended-elements/)

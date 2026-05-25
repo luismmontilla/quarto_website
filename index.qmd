@@ -22,6 +22,10 @@ about:
       href: https://scholar.google.com/citations?hl=en&user=vwVkZfwAAAAJ&view_op=list_works&sortby=pubdate
     - text: "{{< iconify fa-regular newspaper >}} Scholia"
       href: https://scholia.toolforge.org/author/Q57276976  
+    - text: Semble
+      href: https://semble.so/profile/luismmontilla.com
+    - text: Sifa
+      href: https://sifa.id/p/luismmontilla.com
 ---
 
 ### From studying life beneath the waves to creating connections above them

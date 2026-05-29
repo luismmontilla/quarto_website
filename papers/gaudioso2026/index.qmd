@@ -1,0 +1,34 @@
+---
+title: "Crossref Grant Linking System: enabling transparent and comprehensive research evaluation through open funding metadata"
+abstract: "Research evaluation increasingly demands comprehensive, transparent, and interoperable data infrastructures that can accurately track the full lifecycle of research activities from funding to outputs. While the scholarly community has successfully established persistent identifiers for research outputs (DOIs), researchers (ORCID), and institutions (ROR), a persistent way to identify and link funding information was lacking until recently. This limitation has impeded institutions and funders from effectively measuring research impact, demonstrating value for investment, and supporting responsible research assessment practices.
+The Crossref Grant Linking System (GLS), launched in 2019, addresses this infrastructure gap by providing funders with a mechanism to register open, persistent, and interoperable metadata about their grants and awards. As Current Research Information Systems (CRIS) serve as central repositories for institutional research information and play key roles in research evaluation and assessment, the integration of GLS data represents a significant opportunity to enhance evaluation practices aligned with principles articulated in the Barcelona Declaration on Open Research Information and the Coalition for Advancing Research Assessment (CoARA)."
+date: 2026-05-20
+author:
+  - name: Rocío Gaudioso Pedraza
+    orcid: 0000-0003-1323-102X
+  - name: Luis Montilla
+    orcid: 0000-0002-7079-6775
+image: eurocris-2026-people.jpeg
+type: Conference paper
+conference: 17th International Conference on Current Research Information Systems (CRIS2026)
+categories: 
+  - Scholarly infrastructure
+  - Scholarly metadata
+---
+
+:::: {.columns}
+::: {.column width="60%"}
+
+|Related items|
+|:-:|
+|{{< fa chart-line >}} {{< fa code >}} [Presentation and extended abstract](https://dspacecris.eurocris.org/handle/11366/9071)|
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="30%"}
+
+:::
+
+::::

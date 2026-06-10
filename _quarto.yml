@@ -22,7 +22,9 @@ website:
         text: About
 format:
   html:
-    theme: darkly
+    theme: 
+      dark: darkly
+      light: flatly
 
 execute:
   freeze: auto

@@ -1,0 +1,30 @@
+---
+title: "Quarto Altmetric Badge Extension"
+categories:
+    - quarto
+---
+
+This is my first attempt at coding Quarto extension. This is specifically a shortcode extension to easily embed Altmetric badges in your documents using a DOI from your document metadata. For example:
+
+{{< altmetrics doi="10.1111/2041-210x.70338" details=true >}}
+
+You can install this shortcode extension by running in the terminal the following from the root of your quarto project:
+
+```bash
+quarto add luismmontilla/altmetrics
+```
+
+This will install the extension under the _extensions subdirectory. If you're using version control, you will want to check in this directory.
+
+Visit [https://github.com/luismmontilla/quarto-altmetrics/](https://github.com/luismmontilla/quarto-altmetrics/) to know more!
+
+
+::: {.callout-important}
+## Disclaimer
+
+This Quarto extension is an independent, community‑developed tool and is not an official product of, endorsed by, or affiliated with Digital Science or Altmetric. It is built on top of the publicly available Altmetric badge embedding tools which Digital Science makes freely available for personal and non‑commercial websites.
+
+This extension is intended solely for displaying Altmetric badges on your personal website to highlight your own research outputs. There is no commercial purpose or profit behind this repository; it is shared openly to help researchers easily integrate Altmetric badges into their Quarto‑based sites.
+
+All trademarks and product names are the property of their respective owners.
+:::

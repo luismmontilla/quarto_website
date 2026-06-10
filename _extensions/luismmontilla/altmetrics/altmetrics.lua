@@ -28,7 +28,7 @@ end
 
 return {
   ['altmetrics'] = function(args, kwargs, meta)
-    local doi = get_doi(meta)
+    local doi = get_doi(meta) or get_string(kwargs.doi)
     if not doi then
       return pandoc.Para({ pandoc.Str("**Error:** No DOI found in document metadata.") })
     end

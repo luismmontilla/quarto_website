@@ -1,10 +1,37 @@
 ---
 title: "Microbial associates of an endemic Mediterranean seagrass enhance the access of the host and the surrounding seawater to inorganic nitrogen under ocean acidification"
-date: "2023-11-15"
+date: 2023-11-15
 categories: [seagrasses]
 image: "image.jpg"
+doi: https://doi.org/10.1038/s41598-023-47126-4
+author:
+    - name: Catherine A. Pfister
+    - name: Ulisse Cardini
+    - name: Alice Mirasola
+    - name: Luis M. Montilla
+      orcid: 0000-0002-7079-6775
+    - name: Iva Veseli
+    - name: Jean-Pierre Gattuso
+    - name: Nuria Teixido
+abstract: |
+    Seagrasses are important primary producers in oceans worldwide. They live in shallow coastal waters that are experiencing carbon dioxide enrichment and ocean acidification. _Posidonia oceanica_, an endemic seagrass species that dominates the Mediterranean Sea, achieves high abundances in seawater with relatively low concentrations of dissolved inorganic nitrogen. Here we tested whether microbial metabolisms associated with _P. oceanica_ and surrounding seawater enhance seagrass access to nitrogen. Using stable isotope enrichments of intact seagrass with amino acids, we showed that ammonification by free-living and seagrass-associated microbes produce ammonium that is likely used by seagrass and surrounding particulate organic matter. Metagenomic analysis of the epiphytic biofilm on the blades and rhizomes support the ubiquity of microbial ammonification genes in this system. Further, we leveraged the presence of natural carbon dioxide vents and show that the presence of _P. oceanica_ enhanced the uptake of nitrogen by water column particulate organic matter, increasing carbon fixation by a factor of 8.6–17.4 with the greatest effect at $\mathrm{CO_2}$ vent sites. However, microbial ammonification was reduced at lower pH, suggesting that future ocean climate change will compromise this microbial process. Thus, the seagrass holobiont enhances water column productivity, even in the context of ocean acidification.
+citation:
+    container-title: Scientific Reports
 ---
+:::: {.columns}
+::: {.column width="60%"}
 
-{{< fa file-lines >}} [Full text](https://doi.org/10.1038/s41598-023-47126-4) 
+|Related items|
+|:-:|
+|{{< fa chart-line >}} [Environmental Data](https://doi.org/10.5281/zenodo.7834043)|
+|{{< fa dna >}} [Metagenomic Data](http://www.ncbi.nlm.nih.gov/bioproject/967736)|
+:::
 
-> Pfister C, Cardini U, Mirasole A, **Montilla LM**, Veseli I, Gattuso JP, Teixido N. 2023. *Microbial associates of an endemic Mediterranean seagrass enhance the access of the host and the surrounding seawater to inorganic nitrogen under ocean acidification*. Scientific Reports. [https://doi.org/10.1038/s41598-023-47126-4](https://doi.org/10.1038/s41598-023-47126-4)
+::: {.column width="10%"}
+:::
+
+::: {.column width="30%"}
+{{< altmetrics type=large-donut details=true >}}
+:::
+
+::::

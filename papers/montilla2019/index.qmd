@@ -1,7 +1,35 @@
 ---
 title: "Systematic review and meta-analysis of 50 years of coral disease research visualized through the scope of network theory"
-date: "2019-06-04"
+date: 2019-05-26
 categories: [corals, networks]
 image: "https://dfzljdn9uc3pi.cloudfront.net/2019/7041/1/fig-5-1x.jpg"
-doi: https://doi.org/10.7717/peerj.7041
+doi: https://10.1101/487447 
+author:
+    - name: Luis M. Montilla
+      orcid: 0000-0002-7079-6775
+    - name: Alfredo Ascanio
+    - name: Alejandra Verde
+    - name: Aldo Cróquer
+abstract: |
+    Coral disease research encompasses five decades of undeniable progress. Since the first descriptions of anomalous signs, we have come to understand multiple processes and environmental drivers that interact with coral pathologies. To gain a better insight into the knowledge we already have, we explored how key topics in coral disease research have been related to each other using network analysis. We reviewed 719 papers and conference proceedings published from 1965 to 2017. From each study, four elements determined our network nodes: 1) studied disease(s); 2) host genus; 3) marine ecoregion(s) associated with the study site; and 4) research objectives. Basic properties of this network confirmed that there is a set of specific topics comprising the majority of research. The top five diseases, genera, and ecoregions studied accounted for over 48% of the research effort in all cases. The community structure analysis identified 15 clusters of topics with different degrees of overlap among them. These clusters represent the typical sets of elements that appear together for a given study. Our results show that while some coral diseases have been studied considering multiple aspects, the overall trend is for most diseases to be understood under a limited range of approaches, e.g. bacterial assemblages have been considerably studied in Yellow and Black band diseases while immune response has been better examined for the aspergillosis-Gorgonia system. Thus, our challenge in the near future is to identify and resolve potential gaps in order to achieve a more comprehensive progress on coral disease research.
+type: Preprint
+citation:
+    container-title: BioRxiv
 ---
+:::: {.columns}
+::: {.column width="60%"}
+
+|Related items|
+|:-:|
+|{{< fa file-lines >}} [Journal article](/papers/montilla2019b/index.qmd)|
+|{{< fa chart-line >}} [Data and Code](https://doi.org/10.5281/zenodo.2288027)|
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="30%"}
+{{< altmetrics type=large-donut details=true >}}
+:::
+
+::::

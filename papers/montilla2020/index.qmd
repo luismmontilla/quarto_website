@@ -1,10 +1,25 @@
 ---
 title: "The use of pseudo-multivariate standard error to improve the sampling design of coral monitoring programs"
-date: "2020-04-22"
+date: 2020-04-22
 categories: [corals]
 image: https://dfzljdn9uc3pi.cloudfront.net/2020/8429/1/fig-2-2x.jpg
-abstract: "The characteristics of coral reef sampling and monitoring are highly variable, with numbers of units and sampling effort varying from one study to another. Numerous works have been carried out to determine an appropriate effect size through statistical power; however, these were always from a univariate perspective. In this work, we used the pseudo multivariate dissimilarity-based standard error (MultSE) approach to assess the precision of sampling scleractinian coral assemblages in reefs of Venezuela between 2017 and 2018 when using different combinations of number of transects, quadrats and points. For this, the MultSE of 36 sites previously sampled was estimated, using four 30m-transects with 15 photo-quadrats each and 25 random points per quadrat. We obtained that the MultSE was highly variable between sites and is not correlated with the univariate standard error nor with the richness of species. Then, a subset of sites was re-annotated using 100 uniformly distributed points, which allowed the simulation of different numbers of transects per site, quadrats per transect and points per quadrat using resampling techniques. The magnitude of the MultSE stabilized by adding more transects, however, adding more quadrats or points does not improve the estimate. For this case study, the error was reduced by half when using 10 transects, 10 quadrats per transect and 25 points per quadrat. We recommend the use of MultSE in reef monitoring programs, in particular when conducting pilot surveys to optimize the estimation of the community structure."
+abstract: |
+    The characteristics of coral reef sampling and monitoring are highly variable, with numbers of units and sampling effort varying from one study to another. Numerous works have been carried out to determine an appropriate effect size through statistical power; however, these were always from a univariate perspective. In this work, we used the pseudo multivariate dissimilarity-based standard error (MultSE) approach to assess the precision of sampling scleractinian coral assemblages in reefs of Venezuela between 2017 and 2018 when using different combinations of number of transects, quadrats and points. For this, the MultSE of 36 sites previously sampled was estimated, using four 30m-transects with 15 photo-quadrats each and 25 random points per quadrat. We obtained that the MultSE was highly variable between sites and is not correlated with the univariate standard error nor with the richness of species. Then, a subset of sites was re-annotated using 100 uniformly distributed points, which allowed the simulation of different numbers of transects per site, quadrats per transect and points per quadrat using resampling techniques. The magnitude of the MultSE stabilized by adding more transects, however, adding more quadrats or points does not improve the estimate. For this case study, the error was reduced by half when using 10 transects, 10 quadrats per transect and 25 points per quadrat. We recommend the use of MultSE in reef monitoring programs, in particular when conducting pilot surveys to optimize the estimation of the community structure.
 doi: 10.7717/peerj.8429
+author:
+    - name: Luis M. Montilla
+      orcid: 0000-0002-7079-6775
+    - name: Emy Miyazawa
+    - name: Alfredo Ascanio
+    - name: María López-Hernandez
+    - name: Gloria Mariño-Briceño
+    - name: Zlatka Rebolledo-Sánchez
+    - name: Andreína Rivera
+    - name: Daniela S. Mancilla
+    - name: Alejandra Verde
+    - name: Aldo Cróquer
+citation:
+    container-title: PeerJ
 ---
 :::: {.columns}
 ::: {.column width="60%"}

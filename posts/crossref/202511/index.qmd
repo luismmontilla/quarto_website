@@ -1,0 +1,31 @@
+---
+title: "Announcing changes to REST API rate limits"
+date: 2025-11-05
+categories:
+  - Scholarly metadata
+  - Scholarly infrastructure
+image: "image.jpg"
+doi: https://doi.org/10.64000/wadve-3tj60
+author: 
+    - name: Martyn Rittman
+    - name: Luis Montilla
+      orcid: 0000-0002-7079-6775
+abstract: "Our REST API makes all of the metadata we hold publicly available. It receives the majority of our API traffic, with around 1 billion hits per month. It’s one of the key ways that we fulfil our mission to make research objects easy to find, cite, link, assess, and reuse. From 1 December 2025, we will be revising the rate limits for the public and polite pools of the REST API to ensure that we can maintain a stable and reliable system, and that metadata is freely available to everyone."
+---
+
+:::: {.columns}
+::: {.column width="60%"}
+
+|Related items|
+|:-:|
+||
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="30%"}
+{{< altmetrics type=large-donut details=true >}}
+:::
+
+::::

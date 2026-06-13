@@ -10,6 +10,7 @@ about:
       href: https://bsky.app/profile/luismmontilla.bsky.social
     - text: "{{< iconify logos mastodon-icon >}} Mastodon"
       href: https://fediscience.org/@luismmontilla
+      rel: "me"
     - text: "{{< iconify devicon linkedin >}} LinkedIn"
       href: https://www.linkedin.com/in/luismmontilla/
     - text: "{{< iconify bi github >}} Github"
@@ -28,9 +29,14 @@ about:
       href: https://sifa.id/p/luismmontilla.com
 ---
 
-### From studying life beneath the waves to creating connections above them
+![[Falcón, Venezuela. Image by Ialo Hernández](https://unsplash.com/photos/meMvL4RpAKs)](https://images.unsplash.com/photo-1536008897748-4b406bbb15e6?q=80&w=2920&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+
+# From studying life beneath the waves to creating connections above them
 Welcome!
 
-Here you will find my links to my publications, social networks, side projects, and occasional blog posts about my journey from studying coastal-marine communities to foster  engagement, connection, and collaboration within social communities. Feel free to contact me in case of any inquiry!
+Here you will find links to my publications, social networks, side projects, and occasional blog posts about my journey from studying coastal-marine ecological communities to foster  engagement, connection, and collaboration within social communities. Feel free to contact me in case of any inquiry!hor
+
+![[Algo-r-(h)-i-(y)-thms, 2018](https://studiotomassaraceno.org/algo-rhythms-berlin/). [Image by Alina Grubnyak](https://unsplash.com/photos/group-of-people-sitting-on-floor-R84Oy89aNKs)](https://images.unsplash.com/photo-1545987796-b199d6abb1b4?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+
 
 

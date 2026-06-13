@@ -1,0 +1,31 @@
+---
+title: "2026 public data file now available"
+date: 2025-11-19
+categories:
+  - Scholarly metadata
+  - Scholarly infrastructure
+doi: https://doi.org/10.64000/7s70g-drz77
+author: 
+    - name: Martyn Rittman
+    - name: Carlos del Ojo Elías
+    - name: Luis Montilla
+      orcid: 0000-0002-7079-6775
+abstract: "Once a year we release all metadata records for content registered with Crossref in a public data file. This year’s version, containing nearly 180 million records, is now available. It includes metadata associated with all Crossref-registered DOIs in JSON-lines format."
+---
+
+:::: {.columns}
+::: {.column width="60%"}
+
+|Related items|
+|:-:|
+||
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="30%"}
+{{< altmetrics type=large-donut details=true >}}
+:::
+
+::::

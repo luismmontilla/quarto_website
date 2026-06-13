@@ -1,0 +1,31 @@
+---
+title: "Voices from Crossref Metadata Sprint in São Paulo"
+date: 2026-03-31
+categories:
+  - Scholarly metadata
+  - Scholarly infrastructure
+image: "image.jpg"
+doi: https://doi.org/10.64000/a5qzf-k1738
+author: 
+    - name: Luis Montilla
+      orcid: 0000-0002-7079-6775
+    - name: Reyhana Mahomed
+abstract: "This year, we placed a spotlight on the Latin American community, hosting the second Crossref Metadata Sprint in São Paulo, Brazil from 4 - 6 March 2026. In our first tri-lingual event, we brought together 31 participants from Argentina, Brazil, Colombia, Ecuador, and Mexico. Our goal was to foster community co-creation using the open scholarly metadata. The Sprint was an opportunity to pose questions, share ideas, collaborate on research, and propose innovative solutions that enhance the use of metadata in scholarly communication and beyond."
+---
+
+:::: {.columns}
+::: {.column width="60%"}
+
+|Related items|
+|:-:|
+||
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="30%"}
+{{< altmetrics type=large-donut details=true >}}
+:::
+
+::::

@@ -5,7 +5,7 @@ project:
 
 website:
   title: "Home"
-  description: "This is Luis Montillas's academic website."
+  description: "This is Luis Montillas's personal website."
   site-url: https://www.luismmontilla.com/
   cookie-consent: true
   navbar:

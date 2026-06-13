@@ -1,0 +1,30 @@
+---
+title: "Drawing on the Research Nexus with Policy documents: Overton’s use of Crossref API"
+date: 2024-06-15
+categories:
+  - Scholarly metadata
+  - Scholarly infrastructure
+image: "image.jpg"
+doi: https://doi.org/10.64000/amkdy-vhn87
+author: 
+    name: Luis Montilla
+    orcid: 0000-0002-7079-6775
+abstract: "Overton is a big database of government policy documents, also including sources like intergovernmental organizations, think tanks, and big NGOs and in general anyone who’s trying to influence a government policy maker. What we’re interested in is basically, taking all the good parts of the scholarly record and applying some of that to the policy world. By this we mean finding all the documents, finding what’s out there, collecting metadata for them consistently, fitting to our schema, extracting references from all the policy documents we find, adding links between them, and then we also do citation analysis."
+---
+
+:::: {.columns}
+::: {.column width="60%"}
+
+|Related items|
+|:-:|
+||
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="30%"}
+{{< altmetrics type=large-donut details=true >}}
+:::
+
+::::

@@ -1,0 +1,31 @@
+---
+title: "Sprinting to Progress: Behind the scenes of our first metadata sprint"
+date: 2025-06-23
+categories:
+  - Scholarly metadata
+  - Scholarly infrastructure
+image: "image.jpg"
+doi: https://doi.org/10.64000/30m1m-e8477
+author: 
+    - name: Luis Montilla
+      orcid: 0000-0002-7079-6775
+    - name: Rosa Morais Clark
+abstract: "If you take a peek at our blog, you’ll notice that metadata and community are the most frequently used categories. This is not a coincidence – community is central to everything we do at Crossref. Our first-ever Metadata Sprint was a natural step in strengthening both. Cue fanfare!. And what better way of celebrating 25 years of Crossref?"
+---
+
+:::: {.columns}
+::: {.column width="60%"}
+
+|Related items|
+|:-:|
+||
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="30%"}
+{{< altmetrics type=large-donut details=true >}}
+:::
+
+::::

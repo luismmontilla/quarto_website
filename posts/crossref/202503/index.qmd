@@ -1,0 +1,32 @@
+---
+title: "2025 public data file now available"
+date: 2025-03-12
+categories:
+  - Scholarly metadata
+  - Scholarly infrastructure
+image: "image.jpg"
+doi: https://doi.org/10.13003/614659
+author: 
+    - name: Martyn Rittman
+    - name: Luis Montilla
+      orcid: 0000-0002-7079-6775
+    - name: Carlos del Ojo Elías
+abstract: "Every year we release metadata for the full corpus of records registered with us, which can be downloaded for free in a single compressed file. This is one way in which we fulfil our mission to make metadata freely and widely available. By including the metadata of over 165 million research outputs from over 22,000 members worldwide and making them available in a standard format, we streamline access to metadata about scholarly objects such as journal articles, books, conference papers, preprints, research grants, standards, datasets, reports, blogs, and more."
+---
+
+:::: {.columns}
+::: {.column width="60%"}
+
+|Related items|
+|:-:|
+||
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="30%"}
+{{< altmetrics type=large-donut details=true >}}
+:::
+
+::::

@@ -1,0 +1,30 @@
+---
+title: "Perspectives: Luis Montilla on making science fiction concepts a reality in the scholarly ecosystem"
+date: 2023-11-20
+categories:
+  - Scholarly metadata
+  - Scholarly infraestructure
+image: "image.jpg"
+doi: https://doi.org/10.64000/rfdpw-qe476
+author: 
+    name: Luis Montilla
+    orcid: 0000-0002-7079-6775
+abstract: "Hello, readers! My name is Luis, and I’ve recently started a new role as the Technical Community Manager at Crossref, where I aim to bridge the gap between some of our services and our community awareness to enhance the Research Nexus. I’m excited to share my thoughts with you."
+---
+
+:::: {.columns}
+::: {.column width="60%"}
+
+|Related items|
+|:-:|
+||
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="30%"}
+{{< altmetrics type=large-donut details=true >}}
+:::
+
+::::

@@ -1,0 +1,33 @@
+---
+title: "Crossref at the Frankfurt Book Fair 2025"
+date: 2025-11-19
+categories:
+  - Scholarly metadata
+  - Scholarly infrastructure
+image: https://www.crossref.org/images/blog/2025/fbm25-team.png
+doi: https://doi.org/10.64000/711tp-36088
+author: 
+    - name: Helena Cousijn
+    - name: Paul Davis
+    - name: Maryna Kovalyova
+    - name: Luis Montilla
+      orcid: 0000-0002-7079-6775
+abstract: "The Frankfurt Book Fair is the largest book fair in the world, and therefore a key event on our calendar. Held annually in Frankfurt, Germany, the 77th Frankfurt Book Fair (October 15–19, 2025) saw 118,000 trade visitors and 120,000 private visitors from 131 countries. The Crossref booth was located, as usual, in Hall 4.0 where all the stands with information about academic publishing can be found. Four Crossref colleagues attended the Book Fair this year, and in this blog post, you can read more about their meetings, experiences, and plans."
+---
+
+:::: {.columns}
+::: {.column width="60%"}
+
+|Related items|
+|:-:|
+||
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="30%"}
+{{< altmetrics type=large-donut details=true >}}
+:::
+
+::::

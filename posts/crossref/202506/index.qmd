@@ -1,0 +1,30 @@
+---
+title: "Evolving the preprint evaluation world with Sciety"
+date: 2025-06-17
+categories:
+  - Scholarly metadata
+  - Scholarly infrastructure
+image: "image.jpg"
+doi: https://doi.org/10.64000/ehgsy-zbs04
+author: 
+    - name: Luis Montilla
+      orcid: 0000-0002-7079-6775
+abstract: "Sciety is a community-led initiative developed by a team within eLife, that brings together expert evaluations of papers in one place. It is focused on preprints, preprint review and curation."
+---
+
+:::: {.columns}
+::: {.column width="60%"}
+
+|Related items|
+|:-:|
+||
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="30%"}
+{{< altmetrics type=large-donut details=true >}}
+:::
+
+::::

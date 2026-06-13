@@ -1,0 +1,31 @@
+---
+title: "Metadata excellence among new members: La Salle University, Perú"
+date: 2025-07-25
+categories:
+  - Scholarly metadata
+  - Scholarly infrastructure
+image: "image.jpg"
+doi: https://doi.org/10.64000/51bv6-89j85
+author: 
+    - name: Yasiel Pérez Vera
+    - name: Luis Montilla
+      orcid: 0000-0002-7079-6775
+abstract: "En 2025, lanzamos los Premios Crossref a los Metadatos, con el objetivo de destacar el rol de nuestra comunidad en la gestión y el enriquecimiento del registro académico. En esta publicación, destacamos a la Universidad La Salle, Perú, ganadora del premio a la excelencia entre los nuevos miembros, y contamos con la participación de Yasiel Pérez, Responsable Técnico y Editor de la Revista, quien comparte sus ideas:"
+---
+
+:::: {.columns}
+::: {.column width="60%"}
+
+|Related items|
+|:-:|
+||
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="30%"}
+{{< altmetrics type=large-donut details=true >}}
+:::
+
+::::

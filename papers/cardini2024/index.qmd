@@ -35,10 +35,24 @@ abstract: "Sponges commonly form associations within seagrass meadows, but their
 type: Preprint
 doi: 10.1101/2024.12.06.627200
 citation: 
-  doi: 10.1101/2024.12.06.627200
+  container-title: bioRxiv
 ---
+
+:::: {.columns}
+::: {.column width="60%"}
 
 |Related items|
 |:-:|
+|{{< fa file-lines >}} [Journal article](/papers/cardini2026/index.qmd)|
 |{{< fa chart-line >}} [Data](https://doi.org/10.5281/zenodo.14005723)|
 |{{< fa code >}} [Code](https://luismontilla.gitlab.io/ponchos)|
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="30%"}
+{{< altmetrics type=large-donut details=true >}}
+:::
+
+::::

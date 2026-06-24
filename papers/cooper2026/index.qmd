@@ -266,6 +266,7 @@ citation:
 
 |Related items|
 |:-:|
+| {{< fa file-lines >}} [Journal article](/papers/cooper2026b/index.qmd) |
 |{{< fa chart-line >}} {{< fa code >}} [Data and Code](https://doi.org/10.5281/zenodo.19737911)|
 :::
 

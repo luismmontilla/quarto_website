@@ -1,0 +1,38 @@
+---
+title: "New Crossref Service Providers Program ready for applications"
+date: 2026-06-23
+categories:
+  - Scholarly infrastructure
+image: "image.jpg"
+doi: https://doi.org/10.64000/yepqp-zxx87
+author: 
+    - name: Madhura Amdekar
+      orcid: 0000-0003-1741-6646
+    - name: Helena Cousjin
+    - name: Lena Stoll
+    - name: Isaac Farley
+    - name: Amanda French
+    - name: Reyhana Mahomed
+    - name: Luis Montilla
+      orcid: 0000-0002-7079-6775
+    - name: Reyhana Mahomed
+abstract: |
+    We are pleased to announce the re-launch of the Crossref Service Providers Program. From today, we are accepting applications from organisations providing tools for metadata registration to Crossref members. Participation in this program is free and the application involves an accreditation process to determine eligibility and the appropriate participation tier.
+---
+
+:::: {.columns}
+::: {.column width="60%"}
+
+|Related items|
+|:-:|
+||
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="30%"}
+{{< altmetrics type=large-donut details=true >}}
+:::
+
+::::

@@ -51,7 +51,7 @@ author:
       given: I.
       family: Olivé
     orcid: 0000-0002-4865-923X
-#image: https://pubs.acs.org/cms/10.1021/acsestwater.5c00481/asset/images/medium/ew5c00481_0002.gif
+image: https://dfzljdn9uc3pi.cloudfront.net/2026/21392/1/fig-1-2x.jpg
 citation: 
   container-title: PeerJ
 ---

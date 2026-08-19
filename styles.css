@@ -1,1 +1,115 @@
-/* css styles */
+/* Timeline accent colors – light mode */
+.timeline .event[data-label="Q1"] {
+  --tl-color-accent: #6366f1;
+}
+.timeline .event[data-label="2023"] {
+  --tl-color-accent: #0891b2;
+}
+.timeline .event[data-label="2019-2023"] {
+  --tl-color-accent: #059669;
+}
+.timeline .event[data-label="2011-2019"] {
+  --tl-color-accent: #dc2626;
+}
+
+/* Timeline dark mode base colors (Quarto uses .quarto-dark, not data-bs-theme) */
+[data-bs-theme="dark"] .timeline,
+.quarto-dark .timeline {
+  --tl-color-line:    #aaaaaa;
+  --tl-color-dot:     #aaaaaa;
+  --tl-color-dot-bg:  var(--color-bg);
+  --tl-color-label:   #cccccc;
+  --tl-color-card-bg: var(--bs-secondary-bg, #343a40);
+}
+
+/* Timeline accent colors – dark mode */
+[data-bs-theme="dark"] .timeline .event[data-label="Present"],
+.quarto-dark .timeline .event[data-label="Present"] {
+  --tl-color-accent: var(--clr-green);
+}
+[data-bs-theme="dark"] .timeline .event[data-label="2023"],
+.quarto-dark .timeline .event[data-label="2023"] {
+  --tl-color-accent: var(--clr-green);
+}
+[data-bs-theme="dark"] .timeline .event[data-label="2019-2023"],
+.quarto-dark .timeline .event[data-label="2019-2023"] {
+  --tl-color-accent: var(--clr-green);
+}
+[data-bs-theme="dark"] .timeline .event[data-label="2011-2019"],
+.quarto-dark .timeline .event[data-label="2011-2019"] {
+  --tl-color-accent: var(--clr-green);
+}
+
+/* ===== Title block banner background ===== */
+.quarto-title-banner {
+  background-color: var(--clr-green) !important;
+}
+
+/* ===== Base Color Palette ===== */
+
+:root {
+  --clr-green: #1e5631;
+  --clr-green-secondary: #a8d5ba;
+  --clr-dark:  #121212;
+  --clr-light: #f0f0f0;
+  --clr-white: #ffffff;
+
+  --color-bg: var(--clr-white);
+  --color-text: var(--clr-dark);
+  --color-navbar: var(--clr-green);
+}
+
+[data-bs-theme="dark"],
+.quarto-dark {
+  --color-bg: var(--clr-dark);
+  --color-text: var(--clr-light);
+  --color-navbar: var(--clr-green);
+}
+
+/* ===== Apply Palette ===== */
+
+body {
+  background-color: var(--color-bg) !important;
+  color: var(--color-text) !important;
+}
+
+.navbar {
+  background-color: var(--color-navbar) !important;
+}
+
+/* ===== Publication listing ===== */
+
+/* Light mode */
+.listing .card-title a,
+.listing-title a {
+  color: var(--clr-green) !important;
+}
+
+.listing .card-title a:hover,
+.listing-title a:hover {
+  color: var(--clr-green-secondary) !important;
+}
+
+.listing .card {
+  border-color: var(--clr-green) !important;
+}
+
+/* Dark mode */
+[data-bs-theme="dark"] .listing .card-title a,
+[data-bs-theme="dark"] .listing-title a,
+.quarto-dark .listing .card-title a,
+.quarto-dark .listing-title a {
+  color: var(--clr-green) !important;
+}
+
+[data-bs-theme="dark"] .listing .card-title a:hover,
+[data-bs-theme="dark"] .listing-title a:hover,
+.quarto-dark .listing .card-title a:hover,
+.quarto-dark .listing-title a:hover {
+  color: var(--clr-green-secondary) !important;
+}
+
+[data-bs-theme="dark"] .listing .card,
+.quarto-dark .listing .card {
+  border-color: var(--clr-green) !important;
+}

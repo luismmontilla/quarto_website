@@ -4,51 +4,29 @@ lightbox:
     match: auto
     effect: zoom
     loop: true
+filters:
+  - timeline
 ---
+::: {.timeline .snake .tl-label-banner .tl-dotted}
+::: {.event data-label="Present"}
+### [Crossref](https://www.crossref.org/)
 
-## Crossref (Present)
-::: {.column-margin}
-![](https://assets.crossref.org/logo/crossref-logo-landscape-200.svg)
-:::
+Since 2023, I've been part of the Community team as Technical Community Manager. As part of this role, among other things, I build and maintain relationships with the community that uses Crossref's metadata, I design and implement activities to engage all metadata users and grow the usage of the API.
 
-:::::::::::::: {.columns}
-::: {.column width="47.5%"}
 ![](gallery/IMG_8455.jpg){group="crossref"}
 :::
-::: {.column width="5%"}
+::: {.event data-label="2023"}
+### [The Directory of Open Access Journals](https://doaj.org/)
+
+I joined the team at the Directory of Open Access Journals as a Managing Editor, and the experience was profoundly enriching. 
+
+In this role, I undertook various responsibilities, including reviewing applications, journal records, and update requests. I also assessed recommendations provided by volunteer editors, assisting journals in meeting the inclusion criteria for DOAJ, enhancing adherence to best practices, and reporting cases of suspected predatory publishing for further investigation. 
+
+This multifaceted role not only deepened my understanding of open access publishing but also allowed me to contribute actively to maintaining the quality and integrity of the journals associated with DOAJ.
 :::
-
-::: {.column width="47.5%"}
-
-In my most recent position at Crossref, I joined the Community Engagement and Communications team as Technical Community Manager. As part of this role among other things, I build and maintain relationships with the community that uses Crossref's metadata, I design and implement activities to engage all metadata users and grow the usage of the API.
-:::
-:::::::::::::: 
-
-
-## DOAJ (2023)
-::: {.column-margin}
-![](gallery/DOAJ_logo-black.svg)
-:::
-
-
-I joined the team at the Directory of Open Access Journals as a Managing Editor, and the experience was profoundly enriching. In this role, I undertook various responsibilities, including reviewing applications, journal records, and update requests. I also assessed recommendations provided by volunteer editors, assisting journals in meeting the inclusion criteria for DOAJ, enhancing adherence to best practices, and reporting cases of suspected predatory publishing for further investigation. This multifaceted role not only deepened my understanding of open access publishing but also allowed me to contribute actively to maintaining the quality and integrity of the journals associated with DOAJ.
-
-
-
-
-
-## Marine Symbiomes Research Group (2019-2023)
-
-::: {.column-margin}
-![Marine symbiomes](gallery/marsym.png)
-
-![Stazione Zoologica Anton Dohrn](gallery/szn.jpg)
-:::
-
+::: {.event data-label="2019-2023"}
+### Marine Symbiomes Research Group ([Stazione Zoologica Anton Dohrn](https://szn.it/en/))
 :::::::::::::: {.columns}
-
-
-
 ::: {.column width="47.5%"}
 ![](gallery/marsym1.jpeg){group="marsym"}
 
@@ -67,19 +45,13 @@ I joined the team at the Directory of Open Access Journals as a Managing Editor,
 I started my Ph.D. at the Stazione Zoologica Anton Dohrn, Italy as part of the Marine Symbiomes Research Group. As part of our project, we explored the idea that invertebrate-bacterial associations may have a relevant role in nitrogen transformation processes through activity of their associated microbiome. 
 
 Using a combination of field surveys, incubation experiments, stable isotope probing, and high-throughput sequencing, we explored the taxonomic and functional diversity of the microbiome and the contribution of invertebrate-bacterial associations to biogeochemical fluxes of nitrogen at the ecosystem level.
+::::::::::::::
 
 :::
 
-:::::::::::::: 
-
-## Experimental Ecology Laboratory (2011-2019)
-
-::: {.column-margin}
-![Experimental Ecology Laboratory](gallery/lee.png)
-
-![Simon Bolivar University](gallery/usb.png)
 :::
-
+::: {.event data-label="2011-2019"}
+### Experimental Ecology Laboratory ([Simón Bolívar University](https://www.usb.ve/))
 :::::::::::::: {.columns}
 
 ::: {.column width="50%"}
@@ -104,3 +76,14 @@ Ecology Laboratory, where I completed both my Bachelor's and Master's theses. Th
 
 
 ::::::::::::::
+
+:::
+:::
+
+
+
+
+
+
+
+

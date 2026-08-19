@@ -1,0 +1,149 @@
+---
+title: Who was Gollmer?
+subtitle: In search of information about a 19th-century naturalist who did not only collect charophytes.
+author:
+  - Uwe Raabe
+#draft: true
+bibliography: references.bib
+citation:
+    container-title: Rockstocker Meeresbiologische Beiträge
+---
+
+:::{.callout-important}
+Disclaimer
+
+This English translation of the original German-language scholarly work "Wer war Gollmer?" by Uwe Raabe is provided solely for accessibility and discoverability purposes. It is intended to help non-German-speaking researchers locate, understand, and cite the original content more easily.
+
+This translation is unofficial and has not been reviewed or endorsed by the author or the original publisher. All intellectual property rights, copyrights, and academic credit for the research, findings, and original text remain exclusively with the author, Uwe Raabe, and the journal Rockstocker Meeresbiologische Beiträge.
+
+In case of any discrepancy, ambiguity, or conflict between the translated text and the original German version, the original German text shall prevail as the authoritative and legally binding source. This translation should not be reproduced, distributed, or used for commercial purposes without proper attribution to the original work.
+
+[RAABE Uwe (2025) Wer war Gollmer? _Rockstocker Meeresbiologische Beiträge_. 34: 59-72](https://www.oekologie.uni-rostock.de/rostocker-meeresbiol-beitraege/rmb-32-2023-1-1-1/)
+
+If you find this document useful, please cite the original source.
+:::
+
+## Introduction
+
+Some time ago, the author received from Volker Kummer, Potsdam, a fascicle of charophyte specimens compiled by Adolph Dufft (1800-1875) and housed in the herbarium of the University of Potsdam, with a request to review it. It quickly became apparent that it was a remarkable collection, albeit not very extensive, and in good condition. Surprisingly, numerous specimens listed a "Gollmer" or "J. Gollmer" as the collector.
+
+At least in German or Central European charophyte literature, there is hardly any information about him. Therefore, it seemed appealing to delve into the biography of this little-known collector. Based on the Characeae specimens in the Dufft Herbarium, an attempt will be made below to provide a first compilation of what is currently known about Gollmer.
+
+## The Herbarium of the University of Potsdam
+
+The University of Potsdam was only founded in 1991. It emerged from the Brandenburg State University of Potsdam, which had existed since 1990, and whose predecessor institution was the "Karl Liebknecht" Pedagogical College in Potsdam. This college had existed since 1951 and had evolved from the Brandenburg State University, which had been founded in 1948 (Wikipedia a, b). The essential core of the University of Potsdam's herbarium is the impressive collection of the former Municipal Realschule (later Realgymnasium) in Potsdam. Unlike, for example, the herbarium of the Botanical Museum in Berlin-Dahlem, it did not fall victim to the flames of the Second World War and was transferred in the 1950s to the then still young Botanical Institute of the Pedagogical College (Bergann 1957). The Municipal Realschule Potsdam was founded in 1854. The first director, who remained in office until his death, was Ernst Wilhelm Baumgardt (1818-1890), a botanist with a keen interest in the subject. As a young teacher at the Pädagogium in Putbus on Rügen, he published a flora of the island of Rügen entitled "Über die Flora der Insel Rügen" (BAUMGARDT 1845) [@Baumgardt1845].
+
+A few years later, as a "teacher of natural sciences, etc., at the Gymnasium in Coeslin," he posthumously published the second edition of the "Flora von Pommern und Rügen" (SCHMIDT 1848) [@Schmidt1848] for the deceased Wilhelm Ludwig Ewald Schmidt (1804-1843). Just two years after taking office in Potsdam, as "Director of the Realschule in Potsdam," he also published a "Flora der Mittelmark" (BAUMGARDT 1856)[@Baumgardt1856].
+
+E. W. Baumgardt began building a remarkable and extensive botanical collection shortly after the founding of the Realschule and his inauguration. The acquisition of several important herbaria is well documented in the annual reports of the Realschule (secondary school) and later the Realgymnasium (grammar school):
+
+- 1856: Herbarium of Carl Hermann Oenicke (1815-1851) (WALTHER 1905), [@Walther1905]
+- 1859: Herbarium of Friedrich Ludwig Augustin (1776-1854)  (BAUMGARDT 1860,
+WALTHER 1905), [@Baumgardt1860; @Walther1905]
+- 1860: Herbaria of Albert Gottfried Dietrich (1795-1856) (BAUMGARDT 1861, WALTHER
+1905), [@Baumgardt1861; @Walther1905]
+- ca. 1874/75: Parts of the herbarium of Adolph Dufft (1800-1875) (BAUMGARDT 1875,
+1879, WALTHER 1905). [@Baumgardt1875; @Baumgardt1879; @Walther1905]
+
+These collections are largely preserved in Potsdam to this day. The associated Characeae specimens have never been evaluated, including the fascicle from the Dufft herbarium mentioned above.
+
+### The charophytes from the Dufft Herbarium
+
+From Adolph Dufft's herbarium, a fascicle in the form of a large-format, bound booklet containing over 60 specimens of Characeae has been preserved. A few collections are included loose on separate sheets.
+
+The specimens, which are mostly in good to very good condition, were collected, as far as indicated, in the first half of the 19th century, including the 1850s, in the Stettin area and Pomerania (now Poland), as well as in Berlin, Brandenburg, Schleswig-Holstein, Rhineland-Palatinate, and Baden-Württemberg. A single, undated collection (Lamprothamnium papulosum) comes from southern France (Montpellier).
+
+The following collectors are listed (biographical information in WAGENITZ 2009 @Wagenitz2009, the number of copies in parentheses after the name):
+
+- G. H. Bauer (4)
+- A. C. H. Braun (6) (see Fig. 1)
+- “J. N. Buek” (1, the specimen of *Lamprothamnium papulosum* from France
+comes from Buek, who is certainly not the collector. The actual collector is
+unknown)
+- A. Dufft (5)
+- C. J. P. Fritzsche (7)
+- G. H. Mettenius (1)
+- C. A. Seehaus (6)
+
+In addition, there are approximately 23 specimens collected by a "Gollmer" or "J. Gollmer." This represents more than a third of the entire collection. In contrast, surprisingly few specimens were collected by Dufft himself. He collected his first Characeae specimen in 1835 "on the Baltic Sea coast," and further specimens near Stettin in 1843, 1848, and 1851.
+
+## Characeae collected by "Gollmer" in the Dufft Herbarium
+According to the specimens in the Dufft Herbarium, Gollmer collected Characeae between 1840 and 1843 near Stettin and in Pomerania, then in 1849 in Schleswig-Holstein (9 specimens; see Figs. 2, 3, 4) and Rhineland-Palatinate (Oggersheim, 2 specimens).
+
+According to the specimens in the Dufft Herbarium, Gollmer collected Characeae between 1840 and 1843 near Stettin and in Pomerania, then in 1849 in Schleswig-Holstein (9 specimens; see Figs. 2, 3, 4) and Rhineland-Palatinate (Oggersheim, 2 specimens).
+
+The collections were, at least for the most part, identified or revised by Alexander Carl Heinrich Braun (1905–1877), arguably the most significant expert on Characeae of the 19th century, and in some cases annotated (Figs. 3, 4, 5, 6).
+
+It is surprising that Gollmer and his charophyte finds have received so little attention in the literature. In older literature on the charophytes of Germany or Central Europe, his name appears only in HOLTZ (1899) @Holtz1899, who mentions a find of _Chara tomentosa_ (as "_Chara ceratophylla_") with the information "Kammin, Kamminer Bodden. 1843" based on a specimen in the Braun Herbarium. This specimen, like Braun's entire outstanding charophyte collection, was destroyed by fire in Berlin in 1943. Perhaps, however, an unfortunately undated specimen in the Dufft Herbarium belongs to the collection, with the information "Found by Gollmer in the Divenow near the Baltic Sea" (Figs. 5, 6), which could refer to the Kamminer Bodden (today Zalew Kamieński). Braun identified this specimen as “_Chara ceratophylla_ […] var. heteromalla mihi”. (Fig. 6) and provided a detailed commentary.
+
+Despite the relatively large number of specimens from Schleswig-Holstein (especially from the area around Bredstedt), Gollmer is not mentioned by Sonder (1890) @Sonder1890.
+
+Revealing regarding Gollmer's role as a collector of charophytes in the Dufft Herbarium are the statements by Braun (1859) in his essay "On the charophytes found in Colombia and Guyana." Braun writes here: “The most significant contributions to the following compilation I received in recent times came from Julius Gollmer, a pharmacist in Caracas, who, in grateful remembrance of his fatherland and hoping to render a service to science, diligently and thoughtfully compiled a collection of Caracasan plants for the Royal Herbarium, as well as several shipments of live plants for the botanical garden, and in particular supported me with a rich array of charophytes. Already familiar with this family in Europe and well-versed in its treatment following the example of the chemist Bauer, who made significant contributions to the knowledge of Berlin charophytes, he also devoted special attention and care to it in his new homeland. Among the charophytes he collected between 1852 and 1857, which comprise nine different species and subspecies, are several excellent new ones, one of which I have named _Nitella gollmeriana_ in honor of its discoverer.” (BRAUN) 1859) [@Braun1859].
+
+## Julius Gollmer as a collector not only of charophytes in Venezuela
+
+Braun (1859) lists a total of nine charophytes collected by Gollmer in Venezuela, primarily near Caracas, four of which he describes as new: “_Nitella cernua_”, “_N. gollmeriana_”, “_N. axillaris_”, and “Ch. [_Chara_] (polyphylla) conjungens”. The remaining charophytes are: “N. [Nitella] oligospira”, “_N. gracilis_”, “Ch. [_Chara_] (polyphylla) Humboldtii”, “Ch. (polyphylla) Michauxii”, and “Ch. (polyphylla) Berteroi”. All of these specimens were certainly documented in Alexander Braun's herbarium, as is explicitly stated for the three new Nitella species. The collections were thus destroyed by fire in 1943. Only various duplicates or parts of the original collections, which were given to other herbaria, have survived. Further charophyte material collected by Gollmer in Venezuela is available from... For example, specimens can be found in the Natural History Museum in London (BM), the Botanic Garden in New York (NY), and the Smithsonian Institution in Washington, D.C. (US). However, the Dufft Herbarium does not contain any charophyte specimens from Venezuela.
+
+Gollmer collected not only charophytes in Venezuela, but a very wide range of plants, fungi, and animals, which he sent to Berlin, primarily for the then Zoological Museum (now the Museum of Natural History), the Royal Herbarium (now the Botanical Garden and Botanical Museum in Berlin-Dahlem), and the Botanical Garden (see, for example, Paepke 1986, Braun 1859). 
+
+According to Urban (1916), the Botanical Museum housed algae, fungi, lichens, mosses, and phanerogams collected by Gollmer in Venezuela (including some from the island of St. Thomas, Virgin Islands in the Caribbean), as well as "Fruits from Venezuela, dried and preserved in alcohol." 
+
+According to Dewitz (1878): “With the greatest perseverance and dedication, Gollmer collected thousands of insects in Caracas in 1855, 1856, and 1857, observed the development of many, especially those from the order Lepidoptera, and sent his collections, as well as descriptions of the developmental stages, to the Zoological Museum. Unfortunately, Gollmer died soon afterward; he certainly would have made many more contributions to the field of insect biology” (Dewitz 1878) [@Dewitz1878]. 
+
+A quick internet search reveals that a surprisingly large number of species—plants, animals, and fungi—have been named after Gollmer, e.g.,… B. _Broteochactas gollmeri_, _Cecidomyia gollmeri_, _Cladophora gollmeriana_, _Craugastor gollmeri_, _Euphorbia gollmeriana_, _Habenaria gollmeri_, _Howardia gollmeri_, _Humaria gollmeri_, _Hymenophyllum gollmeri_, _Martinella gollmeri_, _Mecodium gollmeri_, _Myrcia gollmeriana_, _Pseudogeoplana gollmeri_, _Rhynchospora gollmeri_, _Solanum gollmeri_. This is an impressive testament to Gollmer's great passion for collecting in Venezuela and the significance of the objects he collected.  
+
+However, his perhaps most important discovery, and at least the best known in Europe, is a small fish that was newly described for science as _Poecilia reticulata_ based on specimens Gollmer sent to Berlin (see Paepke 1986 for details). This is the guppy, a popular ornamental fish today. 
+
+PAEPKE (1986) reports that Gollmer, previously unknown to the Berlin Zoological Museum, first sent zoological specimens from Caracas to Berlin in 1855. “His [Gollmer's] great passion—besides shells—was for snakes, which he spent months preparing for feeding before shipping (to the Berlin Zoo). He made suitable transport containers for them, protecting them from ‘unkind teasing’ during transit, and provided detailed care instructions, even including feeder animals. Preserved mammals, birds, amphibians, spiders, insects, mollusks, and occasionally some fish, as well as seeds and live plants (for the Botanical Garden), also testify to the extensive scientific knowledge and interests of this industrious man. In total, he sent six shipments from Caracas to Berlin by 1858” (PAEPKE 1986). After that, there appears to have been no further contact with Gollmer (see PAEPKE 1986). "The [museum] records from 1861 contain only references to the estate of Gollmer, who died far from his homeland in the small town of Elpata. Two crates of natural specimens arrived in Berlin as Gollmer's final legacy […]" (PAEPKE 1986).
+
+PAEPKE's contribution on the discovery of the guppy (1986) clearly demonstrates how little is known about Julius Gollmer's biography.
+
+## Who was Julius Gollmer?
+
+“We do not yet know Gollmer’s birthplace. We only know that his mother lived as a widow in a village called Kölpin around 1863. Since Gollmer’s brother Bruno served as a sergeant in the 1st Squadron of the 2nd Guard Uhlan Regiment in Berlin, which recruited from Pomerania at least until 1851, the Gollmers could have come from a Kölpin in what was then the district of Kolberg or Neustettin, or possibly also from the Neumark district of Bärwalde” (PAEPKE 1986) [@Paepke1986]. 
+
+It is known that Julius Gollmer was a pharmacist (BRAUN 1859), but not with whom he apprenticed. “As was usual in the trades of the time, this was usually followed by ‘journeyman years’ with employment in various businesses” (HELMSTÄDTER 2025). Based on the charophytes collected by Gollmer in the Dufft Herbarium, two different locations can initially be assumed for the 1840s: first in Pomerania (Stettin), where he collected charophytes between 1841 and 1843, and then in Schleswig-Holstein (Bredstedt) in 1849. The Dufft Herbarium contains a number of lichens that Gollmer found "near Bischoffsheim" in Baden in 1848, suggesting that he was apparently in Tauberbischofsheim, Baden-Württemberg, that year. Two charophyte specimens from Rhineland-Palatinate (Oggersheim), one dated April 27, 1849, could also indicate a stay in Oggersheim (he only collected charophytes in Schleswig-Holstein in June, July, and September 1849). 
+
+When and how the charophyte and lichen specimens arrived in the Dufft Herbarium is unknown. There is strong evidence to suggest that Dufft and Gollmer knew each other personally. Some of the charophyte specimens bear the inscription "from friend Gollmer." 
+
+Adolph Dufft, who primarily studied lichens, especially Cladonian lichens (e.g., SCHIEFELBEIN 2003), was born and died in Potsdam, according to WAGENITZ (2009). However, he lived for a long time in Stettin (now Szczecin, Poland). SCHIEFELBEIN (2003) states that Dufft researched lichens in the area around Stettin and in Pomerania from 1842 to 1862. Dufft published a “List of Lichens Collected Around Stettin and in Pomerania” (DUFFT 1863), in which Gollmer is mentioned: “[…] the industrious botanist Julius Gollmer also collected some rare lichens in the Stepnitz Forest [Stepnitz Forest north-northeast of Stettin/Szczecin] […]” (DUFFT 1863). However, there is no indication of Gollmer's stay in Venezuela or that he had already died there. 
+
+On September 20, 1849, Gollmer collected a Characeae in Schleswig-Holstein (Fig. 3); by 1852 at the latest (BRAUN 1859, see above), he must have been in Venezuela
+
+## Conclusion
+
+Gollmer must have been very interested in floristics and faunistics. During his time in Venezuela, he was a significant collector of natural history specimens, and many newly described species from a wide variety of groups were named after him. Nevertheless, hardly anything is known about him, not even his exact dates of birth and death. His study of charophytes in Central Europe in the 1840s is impressively documented by his collections in the Dufft Herbarium. These are also likely the only charophytes from Gollmer's collection from this period that have survived.
+
+May this article encourage a more intensive examination of Julius Gollmer's biography and the evaluation of seemingly less significant botanical collections with regard to both their specimens and their collectors.
+
+## Summary
+
+The core of the University of Potsdam's herbarium is formed by the collection of the former Potsdam Municipal Secondary School. This includes a fascicle of charophytes from the herbarium of A. Dufft, containing over 60 specimens from various collectors from the first half of the 19th century, including the 1850s. A particularly large number of specimens were collected in the 1840s by Julius Gollmer in Pomerania, Schleswig-Holstein, and Rhineland-Palatinate. Later, in the 1850s, Gollmer intensively collected plants, fungi, and animals in Venezuela, which he sent to Berlin, including charophytes, the processing of which was undertaken by A. Braun. Nitellagollmeriana, along with many other species from a wide variety of groups, was named after the collector. Nevertheless, there is hardly any information about Gollmer's biography. He was probably born in Pomerania. He was a pharmacist. In the 1840s, he apparently lived in Pomerania (Stettin, now Szczecin/Poland), Baden-Württemberg (Tauberbischofsheim), and Schleswig-Holstein (Bredstedt), among other places. In the 1850s, he resided in Venezuela (Caracas), where he also died, presumably in 1861. His place of death is listed as "Elpata."
+
+## Acknowledgements
+
+I would like to express my sincere gratitude to Dr. Volker Kummer of Potsdam, among others, for lending me the booklet of charophyte specimens compiled by Dufft from the herbarium of the University of Potsdam, as well as for his valuable bibliographic references and annotations. 
+
+I would also like to extend my sincere thanks once again to Dr. Irmgard Blindow of Kloster, Dr. Michelle Casanova of Melbourne, Peter Herkenrath of Recklinghausen, and Frank Tillack of Berlin for their information regarding Gollmer and the manuscript, and for their support. Likewise, I would like to thank Richard Götte of Brilon for taking the photographs of charophyte specimens from the Dufft herbarium. 
+
+## Addendum
+
+Robert Julius Gollmer was born on September 18, 1818, in Köckeritz, district of Cammin, Pomerania (now Poland). He presumably died in 1861 in Upata, Venezuela; a precise date has not yet been determined. 
+
+Shortly before completing the manuscript, the author received information from Sylvain Hodvina of Waidhofen an der Thaya (Austria) and Carsten Schmidt of Münster, Germany, regarding internet sources that included the birthdate and place of birth of a Robert Julius Gollmer [FamilySearch, last accessed September 19, 2025](https://www.familysearch.org/ark:/61903/3:1:9392-8RSH-WT?view=explore&groupId=M9VQ-KC2&lang=de) or [genealogy.net, last accessed September 20, 2025]().
+
+Initially, however, it was unclear whether this was indeed the Julius Gollmer in question, the collector of charophytes in the Dufft Herbarium in Potsdam. In mid-September 2025, Ms. M. Ullmann facilitated access to the files on Julius Gollmer at the Museum für Naturkunde Berlin (MfN). It quickly became apparent that the material, particularly noteworthy with regard to Gollmer's activities concerning the fauna of Venezuela in the mid-19th century, had only been partially analyzed.
+
+The records of the Ministry of National Remembrance (MfN) (S 01-01-01, 2021 Vol. 1) indicate, among other things, that the mother, "Johanna Gollmer," was widowed in 1863. A brother, "Julius Oscar Gollmer," is also mentioned. This all aligns well with the information found online regarding "Robert Julius Gollmer" (see above). According to this information, Robert Julius Gollmer was born on September 18, 1818, in Köckeritz ("Koeckeritz Paper Mill"), Cammin district, in Pomerania, and baptized on November 8, 1818, in Alt Sarnow (now Żarnowo, Poland), Cammin district. His father was the paper manufacturer Johann Gottlieb Gollmer (1780-1857), and his mother was Johanna Charlotte Gollmer, née Meissner (1794-?). His mother was born in Königsberg, East Prussia, and his parents married in 1810. Julius Gollmer had a total of 13 siblings, including a twin sister, Louise Matilde. His youngest brother is listed as Oskar Bruno Gollmer, born on April 14, 1831. The name Köckeritz is sometimes incorrectly spelled Käkeritz, but the correct name is Köckeritz (today Krokorzyce, Poland, about 7 km south-southeast of Alt Sarnow/Żarnowo). A letter dated April 14, 1863, signed by Johanna Gollmer and found in the archives of the Ministry of National Remembrance (MfN), states that Julius Gollmer died in Upata. Unfortunately, no specific date of death is recorded in the files, but it must have been well before August 1861. Upata is located in eastern Venezuela, about 570 km east-southeast of Caracas.
+
+At this point, we would like to extend our sincere thanks once again to Ms. M. Ullmann and Messrs. S. Hodvina and C. Schmidt for their support.
+
+:::{.callout-note}
+This idea started with my participation in the Wikidata Edit-a-thon “Who’s hiding behind museum collections?” organised by the [WiNoDa Knowledge Lab](https://winoda.de/en/english/).
+
+During the event I noticed that a name (Gollmer's) in the collection was tied to botanical samples from Cumaná, Venezuela. To add to my curiosity, biographical information about this naturalist and apothecary is not so avaialable in English or Spanish, beyond a few posts on social media about his role on the Guppy's description.
+
+After receiving a suggestion that the Wikidata item was a bit incomplete, I tried doing a search in German, which is how I came across Uwe's article.
+
+
+:::

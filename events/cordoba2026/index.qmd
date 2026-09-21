@@ -1,0 +1,18 @@
+---
+title: "PEPA: tras la estandarización de los procesos en la edición de libros en abierto."
+date: 2026-09-17
+authors: 
+    - Jaume Llambrich
+    - Manuel Minchón López
+    - Luis Montilla
+    - Reme Pérez
+categories: [Scholarly metadata, Español]
+abstract: Tras el impacto de la presentación y puesta en marcha del proyecto PEPA, desde UNE hemos tomado conciencia de la enorme heterogeneidad que existe en el diseño de los procesos de publicación de libros en acceso abierto por parte de nuestros asociados. Nos estamos encontrando con gran variedad y divergencias en los formatos, tratamiento de metadatos, presencia en bases de datos, indexación, etc. Esta mesa tiene como objetivo identificar las dificultades que se encuentran los editores que están ya adentrados en la edición en abierto y hablar sobre la vital importancia de los metadatos en DILVE, Crossref y PEPA para poder adecuarse a los estándares de una edición en abierto bajo los parámetros FAIR.
+image: https://lh3.googleusercontent.com/pw/AP1GczO18czFxKz5rtixFN6u-i5CIw1zN_BNZ_zoOWNaOFbYhYQJJ-A2BVah68L-d_WJ9VH0OQgE5t4n_HjymHrLrSgK2r2IVYKl5dUsNYHsSNWgBiopd2FsU3BtGRYnOd-OSpMYhrbPktI8hUb6qQfxAgHCPw=w2034-h1526-s-no?authuser=0
+type: Conference paper
+lang: es
+conference: IV Encuentro de Profesionales de la Edición Científica y Académica
+location: Córdoba, Spain
+citation: 
+  container-title: IV Encuentro de Profesionales de la Edición Científica y Académica
+---

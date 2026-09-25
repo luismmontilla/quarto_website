@@ -4,7 +4,7 @@ date: 2026-06-23
 categories:
   - Scholarly infrastructure
 image: "image.jpg"
-doi: https://doi.org/10.64000/yepqp-zxx87
+doi: 10.64000/yepqp-zxx87
 author: 
     - name: Madhura Amdekar
       orcid: 0000-0003-1741-6646

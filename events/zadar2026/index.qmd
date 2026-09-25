@@ -1,0 +1,52 @@
+---
+title: "Connecting the scholarly record through community action: ways of leveraging Crossref's open relationship metadata"
+date: 2026-09-11
+authors: 
+    - name: Luis Montilla
+      orcid: 0000-0002-7079-6775
+    - name: Kora Korzec
+      orcid: 0000-0002-4632-5228
+categories: [Scholarly metadata]
+abstract: |
+    The scholarly metadata openly available through Crossref’s interfaces materialises the sustained efforts of the academic community to build a permanent scholarly record. While often viewed as a technical utility, the global open metadata infrastructure provided by Crossref is fundamentally a community-led effort in shared governance and collective responsibility [@Hendricks_2020].
+
+    Members of Crossref act as stewards of their records and have the responsibility for metadata quality and completeness. Crossref facilitates improvements by supporting a social process of feedback loops and by operating technical enrichment mechanisms, such as metadata matching and the inclusion of information from external sources. For example, among 2 billion citation links between records in Crossref, more than half are generated through automated matching [@Korzec_2026].
+
+    These records do not exist in isolation; instead, the relationships between them can be surfaced via Crossref’s interfaces for humans and machines, providing rich contextual information on the network of connections between works, actors, institutions, and processes involved.
+
+    Relationship metadata are contextual bridges that enable communication between distinct communities. These links demystify the research lifecycle, allowing the community to trace research news through the funding stream, the underlying dataset, or the early manuscript versions before revisions [e.g. @Tkaczyk_2023; @Portenoy_2026]. Open metadata also enables collaboration and innovation, inviting the creation of tools that help peers make the most of the data.
+
+    Recent developments further illustrate Crossref’s commitment to community integration. The introduction of the Data citations API endpoint enables the systematic retrieval of citation relationships between datasets and scholarly publications, supporting dedicated efforts for enhancing data citation practices [@Rittman_2026].
+
+    Dedicated datasets are another way to surface community-relevant information. Such as the regularly released funding metadata set, and the latest one on citation relationships [@Portenoy_2026], which covers over 2 billion connections, and is also a testament of the growing network of works that the community can use for any research or development purposes. Further, Crossref actively invites the community to find new ways to leverage metadata in its corpus through in-person Metadata Sprints and online competitions, resulting in tools, dashboards, and combined datasets that address the community’s questions and needs.
+
+    Here, we highlight the (often untapped) potential of the open relationships metadata available through Crossref’s interfaces, how the community is making contributions, and how they can continue developing integrations to leverage this metadata. We encourage the community to actively engage with Crossref’s open metadata relationships and discover new ways in which this can support transparency, foster collaboration, deepen their understanding of the scholarly landscape, and extend the societal impact of their work.
+type: Conference talk
+keywords:
+    - open infrastructure
+    - open scholarly metadata
+    - scholarly community 
+lang: en
+conference: PUBMET Conference
+location: Zadar, Croatia
+bibliography: references.bib
+citation: 
+    container-title: PUBMET2026 Conference
+---
+:::: {.columns}
+::: {.column width="60%"}
+
+|Related items|
+|:-:|
+
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="30%"}
+{{< altmetrics type=large-donut details=true >}}
+:::
+
+::::
+

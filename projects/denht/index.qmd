@@ -10,7 +10,7 @@ image: https://media.mast.lat/mast/accounts/avatars/111/519/212/272/153/395/orig
 :::::::::::::: {.columns}
 
 ::: {.column width="45%"}
-[![](denht_hex.jpeg)](https://www.nohaytesispodcast.com/)
+[![](denht_hex.svg)](https://www.nohaytesispodcast.com/){width=50%}
 :::
 
 ::: {.column width="10%"}

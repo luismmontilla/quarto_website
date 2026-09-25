@@ -2,6 +2,8 @@
 title: Crossref Metadata Sprint Madrid
 date: 2025-04-08
 image: https://www.crossref.org/images/blog/2025/sprint_collage.jpg
+type: Metadata Sprint
+location: Madrid, Spain
 categories:
     - Scholarly metadata
 ---

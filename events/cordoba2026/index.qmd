@@ -1,5 +1,5 @@
 ---
-title: "PEPA: tras la estandarización de los procesos en la edición de libros en abierto."
+title: "PEPA: tras la estandarización de los procesos en la edición de libros en abierto"
 date: 2026-09-17
 authors: 
     - Jaume Llambrich

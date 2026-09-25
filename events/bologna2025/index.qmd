@@ -1,9 +1,18 @@
 ---
-title: "Workshop on Open Citations
-& Open Scholarly Metadata 2025"
+title: "Mapping Metadata Inequities: Regional Disparities in Crossref Scholarly Records"
 image: https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2jo63sqvdnghpwuqidrcja7n/bafkreiagxpjch5crnlhvk2scqc7m6brxtuqdvj2y3mvl7kelk5ufdonnvm@jpeg
 date: 2025-05-28
-country: Italy
+location: Bologna, Italy
+authors: 
+    - name: Luis Montilla
+      orcid: 0000-0002-7079-6775
+      affiliation: Crossref
+type: Conference talk
+conference: Workshop on Open Citations and Open Scholarly Metadata
+citation: 
+    container-title: Workshop on Open Citations and Open Scholarly Metadata 2025
+abstract: |
+    The Crossref REST API provides the global community with access to over 165 million scholarly metadata records, serving as a foundational resource for discovery, citation, integrity assessment and provenance tracking (Hendricks et al. 2020). However, disparities in the completeness of this metadata can pose significant challenges to equitable access and utilization of scholarly knowledge. The diversity of barriers to metadata enrichment is complex and multifaceted, including but not limited to lack of institutional infrastructure, automation challenges, lack of awareness and/or training, language barriers or low availability of staff and resources to perform these tasks. Crossref schemas allow members to deposit rich metadata beyond basic bibliographic elements, namely abstracts, list of references, author identification via ORCIDs, institutional affiliation and also identification via ROR IDs, funding information, including funder and award IDs, journal update policies via the Crossmark service, license information, all of which contribute to the realize an open interconnected scholarly knowledge network that we aspire to as part of the Research Nexus. The regional differences in terms of journals included in the Crossref overall data have been previously described (Asubiaro & Onaolapo, 2023). Here, instead, we will explore regional disparities patterns in metadata completeness, focusing on highly relevant metadata fields such as references, author affiliations, ORCIDs, and funding information
 ---
 {{< fa file-invoice >}} [Extended poster](https://luismontilla.gitlab.io/wooc2025)
 

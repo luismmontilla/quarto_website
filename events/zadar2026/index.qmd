@@ -21,7 +21,7 @@ abstract: |
     Dedicated datasets are another way to surface community-relevant information. Such as the regularly released funding metadata set, and the latest one on citation relationships [@Portenoy_2026], which covers over 2 billion connections, and is also a testament of the growing network of works that the community can use for any research or development purposes. Further, Crossref actively invites the community to find new ways to leverage metadata in its corpus through in-person Metadata Sprints and online competitions, resulting in tools, dashboards, and combined datasets that address the community’s questions and needs.
 
     Here, we highlight the (often untapped) potential of the open relationships metadata available through Crossref’s interfaces, how the community is making contributions, and how they can continue developing integrations to leverage this metadata. We encourage the community to actively engage with Crossref’s open metadata relationships and discover new ways in which this can support transparency, foster collaboration, deepen their understanding of the scholarly landscape, and extend the societal impact of their work.
-type: Conference paper
+type: Conference talk
 keywords:
     - open infrastructure
     - open scholarly metadata

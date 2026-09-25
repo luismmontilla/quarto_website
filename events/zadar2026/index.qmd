@@ -33,3 +33,20 @@ bibliography: references.bib
 citation: 
     container-title: PUBMET2026 Conference
 ---
+:::: {.columns}
+::: {.column width="60%"}
+
+|Related items|
+|:-:|
+
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="30%"}
+{{< altmetrics type=large-donut details=true >}}
+:::
+
+::::
+

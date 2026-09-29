@@ -30,6 +30,7 @@ lang: en
 conference: PUBMET Conference
 location: Zadar, Croatia
 bibliography: references.bib
+image: https://pubmet.hr/wp-content/uploads/2026/09/PUBMET2026_Conf-photo-1536x569.gif
 citation: 
     container-title: PUBMET2026 Conference
 ---
@@ -50,3 +51,4 @@ citation:
 
 ::::
 
+![](https://pubmet.hr/wp-content/uploads/2026/09/PUBMET2026_Conf-photo-1536x569.gif)

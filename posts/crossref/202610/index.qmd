@@ -1,0 +1,30 @@
+---
+title: "How Grobid uses Crossref metadata to enrich bibliographic information"
+date: 2026-10-06
+categories:
+  - Scholarly infrastructure
+doi: 10.64000/ngecn-xs774
+author: 
+    - name: Luis Montilla
+      orcid: 0000-0002-7079-6775
+abstract: |
+    Crossref members register around 37,000 records daily. All this metadata is openly shared with the global scholarly community through our free APIs. We receive over two billion calls to our API each month, signalling its use by hundreds of tools and services worldwide, supporting the discovery and assessment of scholarly metadata. As part of a new series in our blog, we will spotlight the diversity of tools and integrations that rely on Crossref metadata to serve the scholarly community. In this initial post, we chat to Luca Foppiano, the developer and maintainer of Grobid1, to learn about how Grobid uses Crossref metadata to improve the extraction and enrichment of bibliographic information from scholarly PDFs.
+lang: en
+---
+
+:::: {.columns}
+::: {.column width="60%"}
+
+|Related items|
+|:-:|
+||
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="30%"}
+{{< altmetrics type=large-donut details=true >}}
+:::
+
+::::
